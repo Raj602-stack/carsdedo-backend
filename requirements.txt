@@ -1,0 +1,11 @@
+Django>=4.2
+djangorestframework
+psycopg2-binary
+gunicorn
+python-dotenv
+djangorestframework-simplejwt
+django-extensions
+requests
+phonenumbers
+Pillow>=9.0.0
+
