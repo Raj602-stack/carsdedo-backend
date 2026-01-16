@@ -8,4 +8,5 @@ django-extensions
 requests
 phonenumbers
 Pillow>=9.0.0
+django-cors-headers
 

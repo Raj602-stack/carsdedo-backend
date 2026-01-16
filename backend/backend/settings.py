@@ -17,11 +17,13 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'django_extensions',
     'cars',
+    "corsheaders",
 ]
 
 AUTH_USER_MODEL = 'cars.User'
 
 MIDDLEWARE = [
+    "corsheaders.middleware.CorsMiddleware", 
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -70,6 +72,14 @@ CACHES = {
 }
 
 AUTH_PASSWORD_VALIDATORS = []
+
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000",
+     "http://localhost:3001",
+]
+
+CORS_ALLOW_CREDENTIALS = True
+
 
 LANGUAGE_CODE = 'en-us'
 TIME_ZONE = 'UTC'

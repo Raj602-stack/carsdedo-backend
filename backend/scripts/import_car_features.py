@@ -36,7 +36,14 @@ def run():
                 car=car,
                 category=category,
                 name=name.strip(),
+                defaults={
+                    "status": r.get("status", "flawless").strip(),
+                }
             )
+            # Update status if feature already exists
+            if not created:
+                feature.status = r.get("status", "flawless").strip()
+                feature.save()
 
             print(
                 "🆕 Created" if created else "⏭️ Skipped",

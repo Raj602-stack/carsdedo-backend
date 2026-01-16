@@ -78,7 +78,7 @@ class CarFeatureSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = CarFeature
-        fields = ["category", "name"]
+        fields = ["category", "name", "status"]
 
 
 class InspectionItemSerializer(serializers.ModelSerializer):
@@ -131,19 +131,42 @@ class CarDetailSerializer(serializers.ModelSerializer):
     def get_inspections(self, obj):
         result = []
         for section in InspectionSection.objects.all():
+            # Get section score and rating for this car
+            section_score = obj.inspection_section_scores.filter(section=section).first()
+            
             subs = []
             for sub in section.subsections.all():
                 items = obj.inspection_items.filter(subsection=sub)
-                if items.exists():
+                # Get subsection remarks for this car
+                subsection_remarks = obj.inspection_subsection_remarks.filter(subsection=sub).first()
+                
+                # Include subsection if it has items, remarks, or if section has a score (for sections like supporting_systems)
+                if items.exists() or subsection_remarks or section_score:
                     subs.append({
                         "key": sub.key,
                         "title": sub.title,
-                        "items": InspectionItemSerializer(items, many=True).data
+                        "status": subsection_remarks.status if subsection_remarks else "",
+                        "remarks": subsection_remarks.remarks if subsection_remarks else (sub.remarks if sub.remarks else ""),
+                        "items": InspectionItemSerializer(items, many=True).data if items.exists() else []
                     })
-            if subs:
-                result.append({
+            
+            # Include section even if no subsections, if it has a score
+            if subs or section_score:
+                section_data = {
                     "key": section.key,
                     "title": section.title,
+                    "description": section.description,
                     "subsections": subs
-                })
+                }
+                
+                # Add score, rating, status, and remarks if available
+                if section_score:
+                    section_data["score"] = float(section_score.score)
+                    section_data["rating"] = section_score.rating
+                    if section_score.status:
+                        section_data["status"] = section_score.status
+                    if section_score.remarks:
+                        section_data["remarks"] = section_score.remarks
+                
+                result.append(section_data)
         return result

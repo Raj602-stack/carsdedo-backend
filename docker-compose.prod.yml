@@ -1,0 +1,58 @@
+# Production Docker Compose override
+# Usage: docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d
+
+services:
+  web:
+    # Remove development volume mounts
+    volumes:
+      - ./backend/media:/code/backend/media:ro  # Read-only for production
+    # Add production environment variables
+    environment:
+      - POSTGRES_HOST=${POSTGRES_HOST:-db}
+    # Production Gunicorn settings
+    command: >
+      sh -c "python backend/manage.py migrate --noinput &&
+             python backend/manage.py collectstatic --noinput &&
+             gunicorn backend.wsgi:application 
+             --bind 0.0.0.0:8000 
+             --workers 4 
+             --worker-class sync
+             --timeout 120
+             --max-requests 1000
+             --max-requests-jitter 50
+             --chdir backend"
+    restart: always
+    # Health check
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  db:
+    # Production database settings
+    restart: always
+    # Add backup volume (optional)
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backups:/backups  # For database backups
+    # Production PostgreSQL configuration
+    command: >
+      postgres
+      -c shared_buffers=256MB
+      -c max_connections=100
+      -c effective_cache_size=1GB
+      -c maintenance_work_mem=64MB
+      -c checkpoint_completion_target=0.9
+      -c wal_buffers=16MB
+      -c default_statistics_target=100
+      -c random_page_cost=1.1
+      -c effective_io_concurrency=200
+      -c work_mem=4MB
+      -c min_wal_size=1GB
+      -c max_wal_size=4GB
+
+volumes:
+  postgres_data:
+    driver: local

@@ -1,7 +1,7 @@
 import csv
 from cars.models import Dealer
 
-CSV_PATH = "backend/csv/dealers.csv"
+CSV_PATH = "/code/backend/csv/dealers.csv"
 
 def run():
     with open(CSV_PATH, newline="") as f:

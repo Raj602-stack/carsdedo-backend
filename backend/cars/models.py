@@ -199,19 +199,58 @@ class Car(models.Model):
         related_name="cars",
     )
 
+    AVAILABILITY_CHOICES = [
+    ("available", "Available"),
+    ("reserved", "Reserved"),
+    ("sold", "Sold"),
+    ("blocked", "Blocked"),  # legal / internal hold
+    ]
+
+    availability_status = models.CharField(
+        max_length=20,
+        choices=AVAILABILITY_CHOICES,
+        default="available",
+        db_index=True
+    )
+
+    insurance_valid_till = models.DateField(null=True, blank=True)
+
+    INSURANCE_TYPE = [
+        ("comprehensive", "Comprehensive"),
+        ("third_party", "Third Party"),
+        ("expired", "Expired"),
+    ]
+
+    insurance_type = models.CharField(
+        max_length=20,
+        choices=INSURANCE_TYPE,
+        blank=True
+    )
+
+
+    owner_count = models.PositiveSmallIntegerField(default=1)
+
     title = models.CharField(max_length=255)
     brand = models.CharField(max_length=100, blank=True)
     model = models.CharField(max_length=100, blank=True)
 
     year = models.PositiveIntegerField(null=True, blank=True)
     price = models.DecimalField(max_digits=12, decimal_places=2, default=0)
+    discount_price = models.DecimalField(
+    max_digits=12,
+    decimal_places=2,
+    null=True,
+    blank=True
+    )
     km = models.PositiveIntegerField(null=True, blank=True)
 
     fuel = models.CharField(max_length=50, blank=True)
     transmission = models.CharField(max_length=50, blank=True)
     body = models.CharField(max_length=50, blank=True)
+    seats = models.PositiveSmallIntegerField(null=True, blank=True, help_text="Number of seats")
 
     city = models.CharField(max_length=100, blank=True)
+    rto = models.CharField(max_length=10, blank=True, help_text="RTO code like DL, MH, KA, UP, etc.")
     colorKey = models.CharField(max_length=50, blank=True)
 
     thumbnail = models.ImageField(upload_to="cars/thumbnails/", null=True, blank=True)
@@ -321,9 +360,16 @@ class FeatureCategory(models.Model):
 
 
 class CarFeature(models.Model):
+    STATUS_CHOICES = [
+        ("flawless", "Flawless"),
+        ("little_flaw", "Little flaw"),
+        ("damaged", "Damaged"),
+    ]
+    
     car = models.ForeignKey(Car, on_delete=models.CASCADE, related_name="features")
     category = models.ForeignKey(FeatureCategory, on_delete=models.CASCADE)
     name = models.CharField(max_length=150)
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default="flawless", help_text="Status of this feature")
 
     class Meta:
         constraints = [
@@ -340,6 +386,7 @@ class CarFeature(models.Model):
 class InspectionSection(models.Model):
     key = models.CharField(max_length=50, unique=True)
     title = models.CharField(max_length=100)
+    description = models.CharField(max_length=200, blank=True, help_text="Brief description of what this category covers")
 
 
 class InspectionSubSection(models.Model):
@@ -350,6 +397,11 @@ class InspectionSubSection(models.Model):
     )
     key = models.CharField(max_length=50)
     title = models.CharField(max_length=100)
+    order = models.PositiveIntegerField(default=0, help_text="Display order within the section")
+    remarks = models.TextField(blank=True, help_text="General remarks for this subsection")
+    
+    class Meta:
+        ordering = ['order', 'key']
 
 
 class InspectionItem(models.Model):
@@ -370,5 +422,58 @@ class InspectionItem(models.Model):
             models.UniqueConstraint(
                 fields=["car", "subsection", "name"],
                 name="unique_inspection_item_per_car"
+            )
+        ]
+
+
+# Car-specific inspection section scores and ratings
+class CarInspectionSectionScore(models.Model):
+    RATING_CHOICES = [
+        ("excellent", "Excellent"),
+        ("good", "Good"),
+        ("fair", "Fair"),
+        ("poor", "Poor"),
+    ]
+    
+    STATUS_CHOICES = [
+        ("flawless", "Flawless"),
+        ("minor", "Minor"),
+        ("major", "Major"),
+    ]
+
+    car = models.ForeignKey(Car, on_delete=models.CASCADE, related_name="inspection_section_scores")
+    section = models.ForeignKey(InspectionSection, on_delete=models.CASCADE)
+    score = models.DecimalField(max_digits=3, decimal_places=1, help_text="Score out of 10 (e.g., 9.6, 8.7)")
+    rating = models.CharField(max_length=20, choices=RATING_CHOICES, help_text="Overall rating for this section")
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, blank=True, help_text="Overall status for this section")
+    remarks = models.TextField(blank=True, help_text="Additional remarks or notes for this section (one line)")
+    
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(
+                fields=["car", "section"],
+                name="unique_car_section_score"
+            )
+        ]
+
+
+# Car-specific subsection remarks
+class CarInspectionSubSectionRemarks(models.Model):
+    STATUS_CHOICES = [
+        ("flawless", "Flawless"),
+        ("minor", "Minor"),
+        ("major", "Major"),
+    ]
+    
+    car = models.ForeignKey(Car, on_delete=models.CASCADE, related_name="inspection_subsection_remarks")
+    subsection = models.ForeignKey(InspectionSubSection, on_delete=models.CASCADE)
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, blank=True, help_text="Status of this subsection")
+    remarks = models.TextField(blank=True, help_text="Car-specific remarks for this subsection")
+    
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(
+                fields=["car", "subsection"],
+                name="unique_car_subsection_remarks"
             )
         ]
