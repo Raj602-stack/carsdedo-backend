@@ -1,0 +1,26 @@
+section_key,key,title,order
+core_systems,engine,Engine,1
+core_systems,transmission,Transmission,2
+core_systems,chassis,Chassis,3
+supporting_systems,exhaust_system,Exhaust system,1
+supporting_systems,ignition_system,Ignition system,2
+supporting_systems,engine_cooling,Engine cooling system,3
+supporting_systems,fuel_supply,Fuel supply system,4
+supporting_systems,air_intake,Air intake system,5
+supporting_systems,engine_mounts,Engine mounts,6
+interiors_ac,features_accessories,Features & accessories,1
+interiors_ac,ac_system,AC system,2
+interiors_ac,audio_infotainment,Audio & infotainment,3
+exteriors_lights,body_panels,Body Panels,1
+exteriors_lights,paint,Paint Condition,2
+exteriors_lights,glass,Glass & Mirrors,3
+exteriors_lights,lights,Lighting System,4
+wear_tear_parts,suspension,Suspension,1
+wear_tear_parts,steering,Steering,2
+wear_tear_parts,brake_system,Brake system,3
+wear_tear_parts,battery,Battery,4
+wear_tear_parts,clutch,Clutch,5
+wear_tear_parts,tyres_rims,Tyres & rims,6
+wear_tear_parts,front_tyre,Front tyre,7
+wear_tear_parts,rear_tyre,Rear tyre,8
+wear_tear_parts,spare_tyre,Spare tyre,9

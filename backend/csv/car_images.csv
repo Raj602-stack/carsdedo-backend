@@ -1,0 +1,66 @@
+car_code,category_key,image,caption,sort_order
+CAR001,exterior,cars/images/suv.png,Front View,1
+CAR001,exterior,cars/images/suv.png,Side View,2
+CAR001,interior,cars/images/suv.png,Interior Dashboard,3
+CAR001,interior,cars/images/suv.png,Seats,4
+CAR002,exterior,cars/images/suv.png,Front View,1
+CAR002,exterior,cars/images/suv.png,Rear View,2
+CAR002,interior,cars/images/suv.png,Interior,3
+CAR003,exterior,cars/images/suv.png,Front View,1
+CAR003,exterior,cars/images/suv.png,Side Profile,2
+CAR003,interior,cars/images/suv.png,Luxury Interior,3
+CAR003,interior,cars/images/suv.png,Infotainment,4
+CAR004,exterior,cars/images/suv.png,Front View,1
+CAR004,exterior,cars/images/suv.png,Rear View,2
+CAR004,interior,cars/images/suv.png,Interior,3
+CAR005,exterior,cars/images/suv.png,Front View,1
+CAR005,exterior,cars/images/suv.png,Side View,2
+CAR005,exterior,cars/images/suv.png,Rear View,3
+CAR005,interior,cars/images/suv.png,Interior,4
+CAR006,exterior,cars/images/suv.png,Front View,1
+CAR006,exterior,cars/images/suv.png,Side Profile,2
+CAR006,interior,cars/images/suv.png,Spacious Interior,3
+CAR007,exterior,cars/images/suv.png,Front View,1
+CAR007,exterior,cars/images/suv.png,Rear View,2
+CAR007,interior,cars/images/suv.png,Interior,3
+CAR008,exterior,cars/images/suv.png,Front View,1
+CAR008,exterior,cars/images/suv.png,Side View,2
+CAR008,interior,cars/images/suv.png,Premium Interior,3
+CAR008,interior,cars/images/suv.png,Technology,4
+CAR009,exterior,cars/images/suv.png,Front View,1
+CAR009,exterior,cars/images/suv.png,Rear View,2
+CAR009,interior,cars/images/suv.png,Interior,3
+CAR010,exterior,cars/images/suv.png,Front View,1
+CAR010,exterior,cars/images/suv.png,Side View,2
+CAR010,interior,cars/images/suv.png,Feature Rich Interior,3
+CAR011,exterior,cars/images/suv.png,Front View,1
+CAR011,exterior,cars/images/suv.png,Rear View,2
+CAR011,interior,cars/images/suv.png,7 Seater Interior,3
+CAR012,exterior,cars/images/suv.png,Front View,1
+CAR012,exterior,cars/images/suv.png,Side Profile,2
+CAR012,interior,cars/images/suv.png,Luxury Interior,3
+CAR013,exterior,cars/images/suv.png,Front View,1
+CAR013,exterior,cars/images/suv.png,Rear View,2
+CAR013,interior,cars/images/suv.png,Stylish Interior,3
+CAR014,exterior,cars/images/suv.png,Front View,1
+CAR014,exterior,cars/images/suv.png,Side View,2
+CAR014,interior,cars/images/suv.png,Connected Interior,3
+CAR015,exterior,cars/images/suv.png,Front View,1
+CAR015,exterior,cars/images/suv.png,Rear View,2
+CAR015,interior,cars/images/suv.png,Interior,3
+CAR016,exterior,cars/images/suv.png,Front View,1
+CAR016,exterior,cars/images/suv.png,Side View,2
+CAR016,interior,cars/images/suv.png,Premium Interior,3
+CAR017,exterior,cars/images/suv.png,Front View,1
+CAR017,exterior,cars/images/suv.png,Rear View,2
+CAR017,interior,cars/images/suv.png,Interior,3
+CAR018,exterior,cars/images/suv.png,Front View,1
+CAR018,exterior,cars/images/suv.png,Side Profile,2
+CAR018,interior,cars/images/suv.png,Premium Interior,3
+CAR019,exterior,cars/images/suv.png,Front View,1
+CAR019,exterior,cars/images/suv.png,Rear View,2
+CAR019,interior,cars/images/suv.png,Interior,3
+CAR020,exterior,cars/images/suv.png,Front View,1
+CAR020,exterior,cars/images/suv.png,Side View,2
+CAR020,interior,cars/images/suv.png,Luxury Interior,3
+CAR020,interior,cars/images/suv.png,Technology,4

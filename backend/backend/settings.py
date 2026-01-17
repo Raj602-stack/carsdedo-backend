@@ -73,10 +73,15 @@ CACHES = {
 
 AUTH_PASSWORD_VALIDATORS = []
 
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-     "http://localhost:3001",
-]
+# CORS Configuration - supports environment variables for production
+CORS_ALLOW_ALL_ORIGINS = os.environ.get('CORS_ALLOW_ALL_ORIGINS', 'False') == 'True'
+if not CORS_ALLOW_ALL_ORIGINS:
+    CORS_ALLOWED_ORIGINS = os.environ.get(
+        'CORS_ALLOWED_ORIGINS',
+        'http://localhost:3000,http://localhost:3001'
+    ).split(',')
+else:
+    CORS_ALLOWED_ORIGINS = []
 
 CORS_ALLOW_CREDENTIALS = True
 

@@ -26,8 +26,8 @@ docker-compose.override.yml
 .vscode/
 .idea/
 
-# CSV imports
-backend/csv/*.csv
+# CSV imports - Keep CSV files in repo for deployment
+# backend/csv/*.csv  # Commented out to include CSV files in git
 
 
 
