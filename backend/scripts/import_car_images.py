@@ -1,7 +1,10 @@
 import csv
+from pathlib import Path
 from cars.models import Car, CarImage, CarImageCategory
 
-CSV_PATH = "/code/backend/csv/car_images.csv"
+BASE_DIR = Path(__file__).resolve().parent.parent
+CSV_PATH = BASE_DIR / "csv" / "car_images.csv"
+
 
 
 def run():

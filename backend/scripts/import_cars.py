@@ -1,40 +1,13 @@
-# import csv
-# from cars.models import Car, Dealer
-
-# def run():
-#     with open("/code/backend/csv/cars.csv") as f:
-#         reader = csv.DictReader(f)
-
-#         for r in reader:
-#             dealer = Dealer.objects.get(dealer_code=r["dealer_code"])
-
-#             car, created = Car.objects.update_or_create(
-#                 car_code=r["car_code"],
-#                 defaults={
-#                     "dealer": dealer,
-#                     "title": r["title"],
-#                     "brand": r.get("brand", ""),
-#                     "model": r.get("model", ""),
-#                     "year": int(r["year"]) if r["year"] else None,
-#                     "price": r["price"],
-#                     "km": int(r["km"]) if r["km"] else None,
-#                     "fuel": r.get("fuel", ""),
-#                     "transmission": r.get("transmission", ""),
-#                     "body": r.get("body", ""),
-#                     "city": r.get("city", ""),
-#                     "colorKey": r.get("colorKey", ""),
-#                     "registration_number": r.get("registration_number", ""),
-#                     "tags": eval(r.get("tags", "[]")),
-#                     "metadata": eval(r.get("metadata", "{}")),
-#                 }
-#             )
-
-#             print("✅", "Created" if created else "Updated", car.car_code)
-
 import csv
 import ast
 from datetime import datetime
+from pathlib import Path
 from cars.models import Car, Dealer
+
+
+# Resolve project base directory safely
+BASE_DIR = Path(__file__).resolve().parent.parent
+CSV_PATH = BASE_DIR / "csv" / "cars.csv"
 
 
 def parse_date(value):
@@ -47,9 +20,7 @@ def parse_date(value):
 
 
 def run():
-    path = "/code/backend/csv/cars.csv"
-
-    with open(path, newline="", encoding="utf-8") as f:
+    with open(CSV_PATH, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
 
         for row_num, r in enumerate(reader, start=1):

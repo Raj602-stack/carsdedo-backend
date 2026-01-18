@@ -1,8 +1,11 @@
 import csv
 from cars.models import InspectionSection, InspectionSubSection
+from pathlib import Path
 
-CSV_SECTIONS = "/code/backend/csv/inspection_sections.csv"
-CSV_SUBSECTIONS = "/code/backend/csv/inspection_subsections.csv"
+BASE_DIR = Path(__file__).resolve().parent.parent
+CSV_SECTIONS = BASE_DIR / "csv" / "inspection_sections.csv"
+CSV_SUBSECTIONS = BASE_DIR / "csv" / "inspection_subsections.csv"
+
 
 def run():
     with open(CSV_SECTIONS, newline="") as f:

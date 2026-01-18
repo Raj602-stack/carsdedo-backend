@@ -1,8 +1,11 @@
 import csv
 from django.db import transaction
 from cars.models import Car, InspectionSubSection, InspectionItem
+from pathlib import Path
 
-CSV_PATH = "/code/backend/csv/inspection_items.csv"
+BASE_DIR = Path(__file__).resolve().parent.parent
+CSV_PATH = BASE_DIR / "csv" / "inspection_items.csv"
+
 
 @transaction.atomic
 def run():

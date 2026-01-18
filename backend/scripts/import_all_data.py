@@ -3,14 +3,16 @@ Master script to import all car data from CSV files
 Run this from Django shell: python backend/manage.py shell < backend/scripts/import_all_data.py
 Or use: python backend/manage.py shell -c "exec(open('backend/scripts/import_all_data.py').read())"
 """
-
 import os
 import sys
-import django
+from pathlib import Path
 
-# Setup Django
-sys.path.append('/code/backend')
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.append(str(BASE_DIR))
+
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend.settings')
+
+import django
 django.setup()
 
 from scripts.import_dealers import run as import_dealers

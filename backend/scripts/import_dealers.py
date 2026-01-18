@@ -1,7 +1,9 @@
 import csv
+from pathlib import Path
 from cars.models import Dealer
 
-CSV_PATH = "/code/backend/csv/dealers.csv"
+BASE_DIR = Path(__file__).resolve().parent.parent
+CSV_PATH = BASE_DIR / "csv" / "dealers.csv"
 
 def run():
     with open(CSV_PATH, newline="") as f:
