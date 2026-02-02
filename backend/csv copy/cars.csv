@@ -1,0 +1,21 @@
+car_code,dealer_code,availability_status,insurance_valid_till,insurance_type,owner_count,title,brand,model,year,price,discount_price,km,fuel,transmission,body,seats,city,rto,colorKey,registration_number,tags,metadata
+CAR001,DLR001,available,2026-03-31,comprehensive,1,2019 Jaguar XE,Jaguar,XE,2019,2168000,2000000,63000,Petrol,Automatic,Sedan,5,Delhi,DL3,black,DL3CA1234,['Luxury'],{}
+CAR002,DLR002,available,2025-12-31,third_party,1,2020 Honda City,Honda,City,2020,1200000,1100000,42000,Petrol,Manual,Sedan,5,Mumbai,MH12,white,MH12AB5678,['Family'],{}
+CAR003,DLR001,available,2026-06-30,comprehensive,1,2021 BMW 3 Series,BMW,3 Series,2021,3850000,3600000,28000,Petrol,Automatic,Sedan,5,Delhi,DL8,silver,DL8BM3456,"['Luxury','Premium']",{}
+CAR004,DLR002,available,2025-11-15,comprehensive,2,2018 Maruti Swift,Maruti,Swift,2018,650000,600000,45000,Petrol,Manual,Hatchback,5,Mumbai,MH01,red,MH01SW7890,"['Budget','Fuel Efficient']",{}
+CAR005,DLR003,available,2026-09-20,comprehensive,1,2022 Hyundai Creta,Hyundai,Creta,2022,1850000,1700000,15000,Diesel,Automatic,SUV,7,Bangalore,KA03,white,KA03CR4567,"['SUV','Family']",{}
+CAR006,DLR003,available,2026-01-10,comprehensive,1,2020 Toyota Fortuner,Toyota,Fortuner,2020,3200000,3000000,35000,Diesel,Automatic,SUV,7,Bangalore,KA05,black,KA05FT8901,"['SUV','Premium']",{}
+CAR007,DLR004,available,2025-10-05,third_party,1,2019 Tata Nexon,Tata,Nexon,2019,850000,800000,38000,Petrol,Manual,SUV,7,Pune,MH12,blue,MH12NX2345,"['Compact SUV','Electric Option']",{}
+CAR008,DLR001,available,2026-12-31,comprehensive,1,2021 Mercedes-Benz C-Class,Mercedes-Benz,C-Class,2021,4200000,4000000,22000,Petrol,Automatic,Sedan,5,Delhi,DL9,white,DL9MB6789,"['Luxury','Premium']",{}
+CAR009,DLR002,available,2025-08-25,comprehensive,2,2017 Maruti Baleno,Maruti,Baleno,2017,550000,500000,52000,Petrol,Manual,Hatchback,5,Mumbai,MH02,orange,MH02BL3456,"['Budget','Spacious']",{}
+CAR010,DLR003,available,2026-05-15,comprehensive,1,2022 Kia Seltos,Kia,Seltos,2022,1650000,1550000,12000,Petrol,Automatic,SUV,7,Bangalore,KA04,grey,KA04SE5678,"['SUV','Feature Rich']",{}
+CAR011,DLR004,available,2025-12-20,third_party,1,2018 Mahindra XUV500,Mahindra,XUV500,2018,1400000,1300000,48000,Diesel,Manual,SUV,7,Pune,MH14,white,MH14XU7890,"['SUV','7 Seater']",{}
+CAR012,DLR001,available,2026-08-10,comprehensive,1,2020 Audi A4,Audi,A4,2020,3500000,3300000,30000,Petrol,Automatic,Sedan,5,Delhi,DL7,black,DL7AU1234,"['Luxury','German']",{}
+CAR013,DLR002,available,2025-09-30,comprehensive,2,2019 Hyundai i20,Hyundai,i20,2019,750000,700000,40000,Petrol,Manual,Hatchback,5,Mumbai,MH01,red,MH01IY4567,"['Hatchback','Stylish']",{}
+CAR014,DLR003,available,2026-04-25,comprehensive,1,2021 MG Hector,MG,Hector,2021,1950000,1800000,25000,Petrol,Automatic,SUV,7,Bangalore,KA06,blue,KA06MG8901,"['SUV','Connected']",{}
+CAR015,DLR004,available,2025-11-10,third_party,1,2017 Ford EcoSport,Ford,EcoSport,2017,700000,650000,55000,Petrol,Manual,SUV,7,Pune,MH12,white,MH12EC2345,"['Compact SUV','Reliable']",{}
+CAR016,DLR001,available,2026-07-15,comprehensive,1,2022 Volvo XC60,Volvo,XC60,2022,5500000,5200000,8000,Petrol,Automatic,SUV,7,Delhi,DL5,silver,DL5VX5678,"['Luxury SUV','Safety']",{}
+CAR017,DLR002,available,2025-10-20,comprehensive,2,2018 Maruti Dzire,Maruti,Dzire,2018,600000,550000,47000,Petrol,Manual,Sedan,5,Mumbai,MH03,white,MH03DZ7890,"['Sedan','Budget']",{}
+CAR018,DLR003,available,2026-03-05,comprehensive,1,2020 Skoda Octavia,Skoda,Octavia,2020,1800000,1650000,32000,Diesel,Automatic,Sedan,5,Bangalore,KA07,black,KA07SK1234,"['Sedan','Premium']",{}
+CAR019,DLR004,available,2025-12-15,third_party,1,2019 Nissan Magnite,Nissan,Magnite,2019,800000,750000,36000,Petrol,Manual,SUV,7,Pune,MH14,red,MH14NM4567,"['Compact SUV','Value']",{}
+CAR020,DLR001,available,2026-11-30,comprehensive,1,2021 Land Rover Discovery Sport,Land Rover,Discovery Sport,2021,6800000,6500000,18000,Diesel,Automatic,SUV,7,Delhi,DL4,white,DL4LR8901,"['Luxury SUV','Premium']",{}

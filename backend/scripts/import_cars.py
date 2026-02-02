@@ -43,6 +43,8 @@ def run():
                         "price": float(r["price"]) if r.get("price") else 0,
                         "discount_price": float(r["discount_price"]) if r.get("discount_price") else None,
 
+                        "emi": r.get("emi", "").strip(),
+
                         # --- Usage ---
                         "km": int(r["km"]) if r.get("km") else None,
                         "owner_count": int(r.get("owner_count", 1)),

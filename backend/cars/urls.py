@@ -1,5 +1,9 @@
 from rest_framework.routers import DefaultRouter
-from .views import *
+from .views import (
+    CarListAPIView,
+    CarDetailAPIView,
+    CarCSVImportAPIView,
+)
 from django.urls import path
 
 

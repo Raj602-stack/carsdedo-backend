@@ -1,0 +1,201 @@
+car_code,section_key,subsection_key,name,status,remarks
+CAR001,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR001,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR001,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR001,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR001,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR001,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR001,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR001,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR001,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR001,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR002,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR002,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR002,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR002,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR002,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR002,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR002,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR002,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR002,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR002,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR003,core_systems,engine,Engine Noise,flawless,Engine runs smoothly
+CAR003,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR003,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR003,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR003,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR003,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR003,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR003,exteriors_lights,body_panels,Front Bumper,minor,Minor scratches
+CAR003,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR003,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR004,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR004,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR004,core_systems,chassis,Chassis Condition,flawless,Chassis in excellent condition
+CAR004,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR004,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR004,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR004,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR004,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR004,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR004,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR005,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR005,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR005,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR005,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR005,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR005,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR005,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR005,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR005,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR005,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR006,core_systems,engine,Engine Noise,flawless,Engine runs smoothly
+CAR006,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR006,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR006,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR006,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR006,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR006,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR006,exteriors_lights,body_panels,Front Bumper,minor,Minor scratches
+CAR006,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR006,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR007,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR007,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR007,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR007,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR007,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR007,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR007,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR007,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR007,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR007,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR008,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR008,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR008,core_systems,chassis,Chassis Condition,flawless,Chassis in excellent condition
+CAR008,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR008,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR008,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR008,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR008,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR008,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR008,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR009,core_systems,engine,Engine Noise,flawless,Engine runs smoothly
+CAR009,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR009,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR009,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR009,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR009,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR009,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR009,exteriors_lights,body_panels,Front Bumper,minor,Minor scratches
+CAR009,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR009,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR010,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR010,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR010,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR010,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR010,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR010,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR010,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR010,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR010,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR010,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR011,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR011,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR011,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR011,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR011,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR011,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR011,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR011,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR011,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR011,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR012,core_systems,engine,Engine Noise,flawless,Engine runs smoothly
+CAR012,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR012,core_systems,chassis,Chassis Condition,flawless,Chassis in excellent condition
+CAR012,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR012,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR012,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR012,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR012,exteriors_lights,body_panels,Front Bumper,minor,Minor scratches
+CAR012,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR012,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR013,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR013,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR013,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR013,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR013,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR013,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR013,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR013,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR013,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR013,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR014,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR014,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR014,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR014,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR014,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR014,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR014,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR014,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR014,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR014,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR015,core_systems,engine,Engine Noise,flawless,Engine runs smoothly
+CAR015,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR015,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR015,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR015,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR015,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR015,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR015,exteriors_lights,body_panels,Front Bumper,minor,Minor scratches
+CAR015,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR015,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR016,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR016,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR016,core_systems,chassis,Chassis Condition,flawless,Chassis in excellent condition
+CAR016,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR016,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR016,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR016,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR016,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR016,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR016,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR017,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR017,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR017,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR017,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR017,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR017,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR017,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR017,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR017,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR017,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR018,core_systems,engine,Engine Noise,flawless,Engine runs smoothly
+CAR018,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR018,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR018,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR018,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR018,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR018,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR018,exteriors_lights,body_panels,Front Bumper,minor,Minor scratches
+CAR018,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR018,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR019,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR019,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR019,core_systems,chassis,Chassis Condition,minor,"Minor wear, no structural issues"
+CAR019,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR019,supporting_systems,ignition_system,Spark Plugs,minor,Ignition system in good condition
+CAR019,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR019,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR019,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR019,wear_tear_parts,suspension,Shock Absorbers,minor,Suspension in good condition
+CAR019,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly
+CAR020,core_systems,engine,Engine Noise,minor,Slight engine noise
+CAR020,core_systems,transmission,Gear Shifting,flawless,Smooth gear transitions
+CAR020,core_systems,chassis,Chassis Condition,flawless,Chassis in excellent condition
+CAR020,supporting_systems,fuel_supply,Fuel Pump,flawless,Fuel supply system working perfectly
+CAR020,supporting_systems,ignition_system,Spark Plugs,flawless,Ignition system in good condition
+CAR020,interiors_ac,ac_system,AC Cooling,flawless,AC system working efficiently
+CAR020,interiors_ac,audio_infotainment,Audio System,flawless,Audio system functioning well
+CAR020,exteriors_lights,body_panels,Front Bumper,flawless,No damage
+CAR020,wear_tear_parts,suspension,Shock Absorbers,flawless,Suspension in good condition
+CAR020,wear_tear_parts,steering,Steering Response,flawless,Steering working smoothly

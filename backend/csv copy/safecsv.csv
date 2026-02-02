@@ -1,0 +1,51 @@
+car_code,dealer_code,availability_status,insurance_valid_till,insurance_type,owner_count,title,brand,model,year,price,discount_price,km,fuel,transmission,body,seats,city,rto,colorKey,registration_number,tags,metadata
+CAR001,LKO001,available,,comprehensive,1,2023 Hyundai Creta S Plus,Hyundai,S Plus,2023,1450000,0,44000,Diesel,Manual,SUV,5,Lucknow,UP32,black,UP32NW1991,"['SUV','Premium']",{}
+CAR002,LKO001,available,,comprehensive,2,2015 Mahindra XUV500,Mahindra,W10,2015,675000,0,97000,Diesel,Manual,SUV,7,Lucknow,UP32,orange,UP32GQ0999,"['SUV','7 Seater']",{}
+CAR003,LKO001,available,,comprehensive,1,2018 Volkswagen Ameo,Volkswagen,Highline Plus 1.5L (D)16 Alloy,2018,525000,0,69000,Diesel,Manual,Sedan,5,Lucknow,UP32,grey,UP32JS0585,"['Sedan','Premium']",{}
+CAR004,LKO001,available,,comprehensive,1,2024 Toyota Fortuner,Toyota,4X2 2WD Diesel Turbo Automatic Dual Tone,2024,4450000,0,40000,Diesel,Automatic,SUV,7,Lucknow,UP32,white,UP32PR8119,"['SUV','Feature Rich']",{}
+CAR005,LKO001,available,,comprehensive,1,2023 Tata Harrier,Tata,XZA Plus,2023,1875000,0,71000,Diesel,Automatic,SUV,5,Lucknow,UP32,white,UP32NP0043,"['SUV','Family']",{}
+CAR006,LKO001,available,,expired,1,2021 MG Hector,MG,Style 2.0,2021,1275000,0,75000,Diesel,Manual,SUV,5,Lucknow,UP32,white,UP32LY2929,"['SUV','Premium']",{}
+CAR007,LKO001,available,,comprehensive,1,2024 Kia Seltos,Kia,HTE 1.5,2024,1150000,0,22000,Diesel,Manual,SUV,5,Lucknow,UP32,black,UP32PW7457,"['Compact SUV','Value']",{}
+CAR008,LKO001,available,,comprehensive,1,2022 Maruti Suzuki Wagon,Maruti,Wagon R ZXi,2022,525000,0,47000,Petrol,Manual,Hatchback,5,Lucknow,UP32,silver,UP32ND6056,"['Hatchback','Stylish']",{}
+CAR009,LKO001,available,,expired,1,2021 Maruti Suzuki Alto 800,Maruti,LXi CNG (O),2021,350000,0,50000,CNG,Manual,Hatchback,5,Lucknow,UP32,white,UP32MA9620,"['Budget','Spacious']",{}
+CAR010,LKO001,available,,comprehensive,1,2019 Maruti Suzuki Swift,Maruti,VDi AMT,2019,590000,0,77000,Diesel,Automatic,Hatchback,5,Lucknow,UP32,white,UP32LB3292,"['Hatchback','Reliable']",{}
+CAR011,LKO001,available,,comprehensive,1,2024 Mahindra Thar,Mahindra,LX Hard Top Diesel MT 4WD,2024,1575000,0,29000,Diesel,Manual,SUV,5,Lucknow,UP32,white,UP32PW9492,"['SUV','Feature Rich']",{}
+CAR012,LKO001,available,,comprehensive,1,2023 Mahindra XUV700,Mahindra,AX 7,2023,1775000,0,122000,Diesel,Manual,SUV,7,Lucknow,UP62,blue,UP62CP4182,"['Luxury SUV','Safety']",{}
+CAR013,LKO001,available,,comprehensive,1,2019 Maruti Suzuki Vitara Brezza,Maruti,VDi (O),2019,625000,0,95000,Diesel,Manual,SUV,5,Lucknow,UP32,grey,UP32KP0580,"['Compact SUV','Reliable']",{}
+CAR014,LKO001,available,,comprehensive,1,2022 Mahindra Thar,Mahindra,LX Hard Top Diesel AT 4WD,2022,1450000,0,49000,Diesel,Automatic,SUV,5,Lucknow,UP32,brown,UP32MS6500,"['SUV','Feature Rich']",{}
+CAR015,LKO001,available,,comprehensive,1,2019 Hyundai Creta,Hyundai,SX 1.6 (O) Executive CRDi,2019,975000,0,53000,Diesel,Manual,SUV,5,Lucknow,UP32,silver,UP32KT0072,"['SUV','Premium']",{}
+CAR016,LKO001,available,,comprehensive,1,2019 Maruti Suzuki Swift,Maruti,VDi,2019,590000,0,90000,Diesel,Manual,Hatchback,5,Lucknow,UP32,silver,UP32LD2543,"['Hatchback','Stylish']",{}
+CAR017,LKO001,available,,comprehensive,1,2017 Hyundai Grand i10,Hyundai,Sportz 1.2 Kappa VTVT,2019,425000,0,42000,Petrol,Manual,Hatchback,5,Lucknow,UP32,blue,UP32HT5698,"['Budget','Spacious']",{}
+CAR018,LKO001,available,,comprehensive,1,2015 Ford Ecosport,Ford,Titanium 1.5 TDCi (Opt),2015,490000,0,79000,Diesel,Manual,SUV,5,Lucknow,KA07,silver,KA07SK1234,"['Sedan','Premium']",{}
+CAR019,LKO001,available,,comprehensive,1,2013 Toyota Etios,Toyota,GD,2013,375000,0,80000,Diesel,Manual,Sedan,5,Lucknow,UP32,white,UP32FC2505,"['Sedan','Budget']",{}
+CAR020,LKO001,available,,comprehensive,1,2021 Honda City,Honda,ZX,2021,1080000,0,22000,Petrol,Manual,Sedan,5,Lucknow,UP32,white,UP32NJ2444,"['Sedan','Premium']",{}
+CAR021,LKO001,available,,third_party,1,2023 Volkswagen Taigun,Volkswagen,GT Plus 1.5 TSI DSG,2023,1525000,0,30000,Petrol,Automatic,SUV,5,Lucknow,UP32,white,UP32NL4441,"['SUV','Premium']",{}
+CAR022,LKO001,available,,comprehensive,1,2020 Toyota Innova Crysta,Toyota,2.8 ZX AT 7 STR,2020,1875000,0,137000,Diesel,Automatic,SUV,7,Lucknow,UP32,maroon,UP32LE8718,"['SUV','Feature Rich']",{}
+CAR023,LKO001,available,,expired,1,2022 Maruti Suzuki Ignis,Maruti,Zeta 1.2 MT,2022,625000,0,35000,Petrol,Manual,Hatchback,5,Lucknow,UP32,white,UP32MW6567,[],{}
+CAR024,LKO001,available,,expired,1,2019 Hyundai Xcent,Hyundai,SX 1.1 CRDi,2019,575000,0,39200,Diesel,Manual,Sedan,5,Lucknow,UP32,white,UP32KZ6761,[],{}
+CAR025,LKO001,available,,comprehensive,1,2021 Mahindra XUV300,Mahindra,W8 1.5,2021,975000,0,75981,Diesel,Manual,SUV,5,Lucknow,UP32,green,UP32MH3572,[],{}
+CAR026,LKO001,available,,third_party,1,2016 Maruti Suzuki Baleno,Maruti,Delta 1.2,2016,490000,0,79000,Petrol,Manual,Hatchback,5,Lucknow,UP32,blue,UP32HE4392,[],{}
+CAR027,LKO001,available,,comprehensive,1,2021 Hyundai Grand i10,Hyundai,Magna 1.2 Kappa VTVT,2021,500000,0,73000,Petrol,Manual,Hatchback,5,Lucknow,UP32,green,UP32MD3125,[],{}
+CAR028,LKO001,available,,comprehensive,1,2018 Maruti Suzuki Ciaz,Maruti,Alpha 1.3,2018,650000,0,73000,Diesel,Manual,Sedan,5,Lucknow,UP32,silver,UP32JP6056,[],{}
+CAR029,LKO001,available,,comprehensive,1,2020 Maruti Suzuki Baleno,Maruti,Zeta 1.2,2020,575000,0,70000,Petrol,Manual,Hatchback,5,Lucknow,UP32,white,UP32LR9905,[],{}
+CAR030,LKO001,available,,expired,1,2016 Hyundai Elite i20,Hyundai,Sportz 1.4 (O),2016,525000,0,108000,Diesel,Manual,Hatchback,5,Lucknow,UP32,white,UP32HD6838,[],{}
+CAR031,LKO001,available,,comprehensive,1,2017 Maruti Suzuki Alto 800,Maruti,LXi,2017,265000,0,71000,Petrol,Manual,Hatchback,5,Lucknow,UP32,grey,UP32HZ0456,[],{}
+CAR032,LKO001,available,,expired,1,2016 Hyundai Eon,Hyundai,Era +,2016,290000,0,30000,Petrol,Manual,Hatchback,5,Lucknow,UP32,white,UP32HE1766,[],{}
+CAR033,LKO001,available,,comprehensive,1,2021 Maruti Suzuki Baleno,Maruti,Delta 1.2,2021,625000,0,21000,Petrol,Manual,Hatchback,5,Lucknow,UP32,white,UP32LZ4491,[],{}
+CAR034,LKO001,available,,comprehensive,1,2022 Maruti Suzuki Swift,Maruti,VXi,2022,625000,0,34000,Petrol,Manual,Hatchback,5,Lucknow,UP32,grey,UP32NC6003,[],{}
+CAR035,LKO001,available,,comprehensive,2,2017 Honda City,Honda,ZX,2017,775000,0,54000,Diesel,Manual,Sedan,5,Lucknow,UP32,silver,UP32JC1801,[],{}
+CAR036,LKO001,available,,comprehensive,1,2024 Mahindra Thar Roxx,Mahindra,AX7 L 2WD,2024,2250000,0,4500,Diesel,Manual,SUV,5,Lucknow,UP65,white,UP65FL8882,[],{}
+CAR037,LKO001,available,,comprehensive,1,2023 Maruti Suzuki Vitara Brezza,Maruti,VXi,2023,925000,0,37000,Petrol,Manual,SUV,5,Lucknow,UP32,white,UP32NX4991,[],{}
+CAR038,LKO001,available,,expired,1,2019 Renault Kwid,Renault,RXL,2019,350000,0,28200,Petrol,Manual,Hatchback,5,Lucknow,UP32,white,UP32LA3489,[],{}
+CAR039,LKO001,available,,comprehensive,1,2017 Toyota Camry,Toyota,Hybrid,2017,1975000,0,43900,Petrol,Automatic,Sedan,5,Lucknow,UP16,white,UP16BL8500,[],{}
+CAR040,LKO001,available,,comprehensive,1,2023 Maruti Suzuki XL6,Maruti,Zeta MT,2023,1075000,0,58200,Petrol,Manual,SUV,6,Lucknow,UP32,blue,UP32NP3787,[],{}
+CAR041,LKO001,available,,comprehensive,1,2011 Hyundai i10,Hyundai,Sportz 1.2 Kappa2,2011,225000,0,52000,Petrol,Manual,Hatchback,5,Lucknow,UP32,grey,UP32DX0016,[],{}
+CAR042,LKO001,available,,comprehensive,1,2019 Maruti Suzuki Wagon R,Maruti,VXi,2019,525000,0,35600,Petrol,Manual,Hatchback,5,Lucknow,UP32,blue,UP32KR8001,[],{}
+CAR043,LKO001,available,,third_party,2,2012 Volkswagen Vento,Volkswagen,Highline,2012,390000,0,85000,Diesel,Manual,Sedan,5,Lucknow,UP32,silver,UP32EL7068,[],{}
+CAR044,LKO001,available,,expired,1,2012 Honda Brio,Honda,E MT,2012,250000,0,72000,Petrol,Manual,Hatchback,5,Lucknow,UP32,grey,UP32EL7636,[],{}
+CAR045,LKO001,available,,expired,1,2011 Volkswagen Jetta,Volkswagen,Highline TDI,2011,325000,0,42000,Diesel,Manual,Sedan,5,Lucknow,UP32,white,UP32DP2199,[],{}
+CAR046,LKO001,available,,expired,1,2018 Hyundai Verna Fluidic,Hyundai,1.6 VTVT SX,2018,790000,0,47500,Petrol,Manual,Sedan,5,Lucknow,UP32,black,UP32JU7762,[],{}
+CAR047,LKO001,available,,comprehensive,1,2018 Maruti Suzuki Baleno,Maruti,Zeta 1.2 AT,2018,590000,0,58000,Petrol,Automatic,Hatchback,5,Lucknow,UP32,blue,UP32JU0393,[],{}
+CAR048,LKO001,available,,expired,1,2017 Mercedes-Benz GLS,Mercedes-Benz,350 d,2017,4150000,0,85000,Diesel,Automatic,SUV,7,Lucknow,UP32,black,UP32JB7273,[],{}
+CAR049,LKO001,available,,comprehensive,1,2015 Maruti Suzuki Celerio,Maruti,LXi AMT ABS,2015,325000,0,69000,Petrol,Automatic,Hatchback,5,Lucknow,UP32,white,UP32GM0804,[],{}
+CAR050,LKO001,available,,expired,1,2021 Toyota Innova Crysta,Toyota,2.4 VX 7 STR,2021,1950000,0,102000,Diesel,Manual,SUV,7,Lucknow,UP32,white,UP32MB7660,[],{}

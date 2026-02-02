@@ -1,273 +1,273 @@
 car_code,category_key,category_title,label,value
-CAR001,dimension_capacity,Dimension and capacity,Ground clearance,184 mm
-CAR001,dimension_capacity,Dimension and capacity,Boot space,279 litres
+CAR001,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR001,dimension_capacity,Dimension and capacity,Boot space,430 litres
 CAR001,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR001,dimension_capacity,Dimension and capacity,Wheelbase,2422 mm
-CAR001,dimension_capacity,Dimension and capacity,Length,3731 mm
-CAR001,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
-CAR001,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR001,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR001,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR001,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR001,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR001,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR001,dimension_capacity,Dimension and capacity,Height,1474 mm
-CAR001,dimension_capacity,Dimension and capacity,Width,1579 mm
-CAR001,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR001,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR001,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR001,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR001,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR001,engine_transmission,Engine & transmission,Gear box,5-Speed
 CAR001,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR001,engine_transmission,Engine & transmission,Displacement,999 cc
-CAR001,engine_transmission,Engine & transmission,Number of cylinders,3 units
+CAR001,engine_transmission,Engine & transmission,Displacement,1956 cc
+CAR001,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR001,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR001,engine_transmission,Engine & transmission,Turbocharger,No
-CAR001,fuel_performance,Fuel and performance,Mileage (ARAI),21.7 kmpl
-CAR001,fuel_performance,Fuel and performance,Max power (bhp),67bhp@5500rpm
-CAR001,fuel_performance,Fuel and performance,Max torque (Nm),91Nm@4250rpm
+CAR001,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR001,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR001,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR001,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
 CAR001,fuel_performance,Fuel and performance,Sport mode,No
 CAR001,fuel_performance,Fuel and performance,Multi drive modes,No
-CAR001,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut with lower transverse link
-CAR001,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Twist beam Suspension with coil spring
+CAR001,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR001,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR001,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR001,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR001,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR001,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR001,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
-CAR001,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),18.46 seconds
-CAR001,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR002,dimension_capacity,Dimension and capacity,Ground clearance,190 mm
-CAR002,dimension_capacity,Dimension and capacity,Boot space,350 litres
-CAR002,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR002,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
-CAR002,dimension_capacity,Dimension and capacity,Length,4500 mm
-CAR002,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
-CAR002,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR001,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR001,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR001,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR002,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR002,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR002,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR002,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR002,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR002,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR002,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR002,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR002,dimension_capacity,Dimension and capacity,Height,1650 mm
-CAR002,dimension_capacity,Dimension and capacity,Width,1800 mm
+CAR002,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR002,dimension_capacity,Dimension and capacity,Width,1850 mm
 CAR002,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR002,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR002,engine_transmission,Engine & transmission,Gear box,6-Speed
-CAR002,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR002,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR002,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR002,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR002,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR002,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR002,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR002,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR002,fuel_performance,Fuel and performance,Mileage (ARAI),17.4 kmpl
-CAR002,fuel_performance,Fuel and performance,Max power (bhp),121bhp@5500rpm
-CAR002,fuel_performance,Fuel and performance,Max torque (Nm),145Nm@4250rpm
-CAR002,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR002,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR002,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR002,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR002,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR002,fuel_performance,Fuel and performance,Sport mode,No
+CAR002,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR002,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR002,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR002,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR002,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR002,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR002,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.2 meters
-CAR002,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),12.5 seconds
+CAR002,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR002,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR002,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR003,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
-CAR003,dimension_capacity,Dimension and capacity,Boot space,400 litres
-CAR003,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
-CAR003,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
-CAR003,dimension_capacity,Dimension and capacity,Length,4800 mm
-CAR003,dimension_capacity,Dimension and capacity,Front tyre size,205 / 60 R16
-CAR003,dimension_capacity,Dimension and capacity,Rear tyre size,205 / 60 R16
+CAR003,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR003,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR003,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR003,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR003,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR003,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR003,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
 CAR003,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR003,dimension_capacity,Dimension and capacity,Height,1750 mm
-CAR003,dimension_capacity,Dimension and capacity,Width,1900 mm
+CAR003,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR003,dimension_capacity,Dimension and capacity,Width,1750 mm
 CAR003,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
-CAR003,engine_transmission,Engine & transmission,Drivetrain,All Wheel Drive
-CAR003,engine_transmission,Engine & transmission,Gear box,8-Speed
-CAR003,engine_transmission,Engine & transmission,Number of gears,8 units
-CAR003,engine_transmission,Engine & transmission,Displacement,1998 cc
+CAR003,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR003,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR003,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR003,engine_transmission,Engine & transmission,Displacement,1497 cc
 CAR003,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR003,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR003,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR003,fuel_performance,Fuel and performance,Mileage (ARAI),16.5 kmpl
-CAR003,fuel_performance,Fuel and performance,Max power (bhp),255bhp@5500rpm
-CAR003,fuel_performance,Fuel and performance,Max torque (Nm),400Nm@4250rpm
-CAR003,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR003,fuel_performance,Fuel and performance,Multi drive modes,Yes
-CAR003,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,Double wishbone
+CAR003,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR003,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR003,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR003,fuel_performance,Fuel and performance,Sport mode,No
+CAR003,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR003,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR003,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR003,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR003,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR003,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
 CAR003,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
-CAR003,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),8.5 seconds
+CAR003,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR003,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR004,dimension_capacity,Dimension and capacity,Ground clearance,175 mm
-CAR004,dimension_capacity,Dimension and capacity,Boot space,250 litres
-CAR004,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR004,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
-CAR004,dimension_capacity,Dimension and capacity,Length,3600 mm
-CAR004,dimension_capacity,Dimension and capacity,Front tyre size,175 / 65 R14
-CAR004,dimension_capacity,Dimension and capacity,Rear tyre size,175 / 65 R14
+CAR004,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR004,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR004,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR004,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR004,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR004,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR004,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR004,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR004,dimension_capacity,Dimension and capacity,Height,1450 mm
-CAR004,dimension_capacity,Dimension and capacity,Width,1550 mm
-CAR004,dimension_capacity,Dimension and capacity,Alloy wheels,No
-CAR004,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR004,engine_transmission,Engine & transmission,Gear box,5-Speed
-CAR004,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR004,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR004,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR004,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR004,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR004,engine_transmission,Engine & transmission,Drivetrain,All Wheel Drive
+CAR004,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR004,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR004,engine_transmission,Engine & transmission,Displacement,2755 cc
 CAR004,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR004,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR004,engine_transmission,Engine & transmission,Turbocharger,No
-CAR004,fuel_performance,Fuel and performance,Mileage (ARAI),23.2 kmpl
-CAR004,fuel_performance,Fuel and performance,Max power (bhp),82bhp@5500rpm
-CAR004,fuel_performance,Fuel and performance,Max torque (Nm),113Nm@4250rpm
-CAR004,fuel_performance,Fuel and performance,Sport mode,No
-CAR004,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR004,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR004,fuel_performance,Fuel and performance,Mileage (ARAI),14 kmpl
+CAR004,fuel_performance,Fuel and performance,Max power (bhp),201bhp
+CAR004,fuel_performance,Fuel and performance,Max torque (Nm),500Nm
+CAR004,fuel_performance,Fuel and performance,Sport mode,Yes
+CAR004,fuel_performance,Fuel and performance,Multi drive modes,Yes
 CAR004,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
-CAR004,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR004,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR004,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR004,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR004,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR004,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR004,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.8 meters
-CAR004,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),15.2 seconds
-CAR004,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR005,dimension_capacity,Dimension and capacity,Ground clearance,185 mm
-CAR005,dimension_capacity,Dimension and capacity,Boot space,300 litres
+CAR004,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR004,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR004,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR005,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR005,dimension_capacity,Dimension and capacity,Boot space,430 litres
 CAR005,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR005,dimension_capacity,Dimension and capacity,Wheelbase,2500 mm
-CAR005,dimension_capacity,Dimension and capacity,Length,4200 mm
-CAR005,dimension_capacity,Dimension and capacity,Front tyre size,195 / 65 R15
-CAR005,dimension_capacity,Dimension and capacity,Rear tyre size,195 / 65 R15
+CAR005,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR005,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR005,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR005,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR005,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR005,dimension_capacity,Dimension and capacity,Height,1600 mm
-CAR005,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR005,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR005,dimension_capacity,Dimension and capacity,Width,1850 mm
 CAR005,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR005,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR005,engine_transmission,Engine & transmission,Gear box,6-Speed
 CAR005,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR005,engine_transmission,Engine & transmission,Displacement,1493 cc
+CAR005,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR005,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR005,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR005,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR005,fuel_performance,Fuel and performance,Mileage (ARAI),17.8 kmpl
-CAR005,fuel_performance,Fuel and performance,Max power (bhp),115bhp@5500rpm
-CAR005,fuel_performance,Fuel and performance,Max torque (Nm),250Nm@4250rpm
-CAR005,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR005,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR005,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR005,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR005,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR005,fuel_performance,Fuel and performance,Sport mode,No
+CAR005,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR005,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR005,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR005,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR005,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR005,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR005,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.0 meters
-CAR005,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),11.8 seconds
+CAR005,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR005,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR005,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR006,dimension_capacity,Dimension and capacity,Ground clearance,184 mm
-CAR006,dimension_capacity,Dimension and capacity,Boot space,279 litres
+CAR006,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR006,dimension_capacity,Dimension and capacity,Boot space,430 litres
 CAR006,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR006,dimension_capacity,Dimension and capacity,Wheelbase,2422 mm
-CAR006,dimension_capacity,Dimension and capacity,Length,3731 mm
-CAR006,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
-CAR006,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR006,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR006,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR006,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR006,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR006,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR006,dimension_capacity,Dimension and capacity,Height,1474 mm
-CAR006,dimension_capacity,Dimension and capacity,Width,1579 mm
-CAR006,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR006,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR006,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR006,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR006,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR006,engine_transmission,Engine & transmission,Gear box,5-Speed
 CAR006,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR006,engine_transmission,Engine & transmission,Displacement,999 cc
-CAR006,engine_transmission,Engine & transmission,Number of cylinders,3 units
+CAR006,engine_transmission,Engine & transmission,Displacement,1956 cc
+CAR006,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR006,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR006,engine_transmission,Engine & transmission,Turbocharger,No
-CAR006,fuel_performance,Fuel and performance,Mileage (ARAI),21.7 kmpl
-CAR006,fuel_performance,Fuel and performance,Max power (bhp),67bhp@5500rpm
-CAR006,fuel_performance,Fuel and performance,Max torque (Nm),91Nm@4250rpm
+CAR006,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR006,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR006,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR006,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
 CAR006,fuel_performance,Fuel and performance,Sport mode,No
 CAR006,fuel_performance,Fuel and performance,Multi drive modes,No
-CAR006,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut with lower transverse link
-CAR006,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Twist beam Suspension with coil spring
+CAR006,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR006,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR006,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR006,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR006,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR006,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR006,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
-CAR006,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),18.46 seconds
-CAR006,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR007,dimension_capacity,Dimension and capacity,Ground clearance,190 mm
-CAR007,dimension_capacity,Dimension and capacity,Boot space,350 litres
+CAR006,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR006,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR006,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR007,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR007,dimension_capacity,Dimension and capacity,Boot space,430 litres
 CAR007,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR007,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
-CAR007,dimension_capacity,Dimension and capacity,Length,4500 mm
-CAR007,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
-CAR007,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR007,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR007,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR007,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR007,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR007,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR007,dimension_capacity,Dimension and capacity,Height,1650 mm
-CAR007,dimension_capacity,Dimension and capacity,Width,1800 mm
+CAR007,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR007,dimension_capacity,Dimension and capacity,Width,1850 mm
 CAR007,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR007,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR007,engine_transmission,Engine & transmission,Gear box,6-Speed
-CAR007,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR007,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR007,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR007,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR007,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR007,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR007,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR007,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR007,fuel_performance,Fuel and performance,Mileage (ARAI),17.4 kmpl
-CAR007,fuel_performance,Fuel and performance,Max power (bhp),121bhp@5500rpm
-CAR007,fuel_performance,Fuel and performance,Max torque (Nm),145Nm@4250rpm
-CAR007,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR007,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR007,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR007,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR007,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR007,fuel_performance,Fuel and performance,Sport mode,No
+CAR007,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR007,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR007,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR007,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR007,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR007,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR007,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.2 meters
-CAR007,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),12.5 seconds
+CAR007,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR007,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR007,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR008,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
-CAR008,dimension_capacity,Dimension and capacity,Boot space,400 litres
-CAR008,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
-CAR008,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
-CAR008,dimension_capacity,Dimension and capacity,Length,4800 mm
-CAR008,dimension_capacity,Dimension and capacity,Front tyre size,205 / 60 R16
-CAR008,dimension_capacity,Dimension and capacity,Rear tyre size,205 / 60 R16
+CAR008,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR008,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR008,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR008,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR008,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR008,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR008,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
 CAR008,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR008,dimension_capacity,Dimension and capacity,Height,1750 mm
-CAR008,dimension_capacity,Dimension and capacity,Width,1900 mm
-CAR008,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
-CAR008,engine_transmission,Engine & transmission,Drivetrain,All Wheel Drive
-CAR008,engine_transmission,Engine & transmission,Gear box,8-Speed
-CAR008,engine_transmission,Engine & transmission,Number of gears,8 units
-CAR008,engine_transmission,Engine & transmission,Displacement,1998 cc
+CAR008,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR008,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR008,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR008,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR008,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR008,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR008,engine_transmission,Engine & transmission,Displacement,1197 cc
 CAR008,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR008,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR008,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR008,fuel_performance,Fuel and performance,Mileage (ARAI),16.5 kmpl
-CAR008,fuel_performance,Fuel and performance,Max power (bhp),255bhp@5500rpm
-CAR008,fuel_performance,Fuel and performance,Max torque (Nm),400Nm@4250rpm
-CAR008,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR008,fuel_performance,Fuel and performance,Multi drive modes,Yes
-CAR008,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,Double wishbone
-CAR008,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR008,engine_transmission,Engine & transmission,Turbocharger,No
+CAR008,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR008,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR008,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR008,fuel_performance,Fuel and performance,Sport mode,No
+CAR008,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR008,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR008,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
 CAR008,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR008,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR008,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
 CAR008,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR008,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
-CAR008,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),8.5 seconds
-CAR008,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR009,dimension_capacity,Dimension and capacity,Ground clearance,175 mm
-CAR009,dimension_capacity,Dimension and capacity,Boot space,250 litres
+CAR008,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR008,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR008,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR009,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR009,dimension_capacity,Dimension and capacity,Boot space,280 litres
 CAR009,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
 CAR009,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
-CAR009,dimension_capacity,Dimension and capacity,Length,3600 mm
-CAR009,dimension_capacity,Dimension and capacity,Front tyre size,175 / 65 R14
-CAR009,dimension_capacity,Dimension and capacity,Rear tyre size,175 / 65 R14
+CAR009,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR009,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR009,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
 CAR009,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR009,dimension_capacity,Dimension and capacity,Height,1450 mm
-CAR009,dimension_capacity,Dimension and capacity,Width,1550 mm
+CAR009,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR009,dimension_capacity,Dimension and capacity,Width,1650 mm
 CAR009,dimension_capacity,Dimension and capacity,Alloy wheels,No
 CAR009,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR009,engine_transmission,Engine & transmission,Gear box,5-Speed
 CAR009,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR009,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR009,engine_transmission,Engine & transmission,Displacement,998 cc
 CAR009,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR009,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR009,engine_transmission,Engine & transmission,Turbocharger,No
-CAR009,fuel_performance,Fuel and performance,Mileage (ARAI),23.2 kmpl
-CAR009,fuel_performance,Fuel and performance,Max power (bhp),82bhp@5500rpm
-CAR009,fuel_performance,Fuel and performance,Max torque (Nm),113Nm@4250rpm
+CAR009,fuel_performance,Fuel and performance,Mileage (ARAI),26 kmpl
+CAR009,fuel_performance,Fuel and performance,Max power (bhp),58bhp
+CAR009,fuel_performance,Fuel and performance,Max torque (Nm),78Nm
 CAR009,fuel_performance,Fuel and performance,Sport mode,No
 CAR009,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR009,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
@@ -275,347 +275,1277 @@ CAR009,suspension_steering_brakes,Suspension steering and brakes,Suspension rear
 CAR009,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR009,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
 CAR009,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR009,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.8 meters
-CAR009,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),15.2 seconds
+CAR009,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR009,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
 CAR009,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR010,dimension_capacity,Dimension and capacity,Ground clearance,185 mm
-CAR010,dimension_capacity,Dimension and capacity,Boot space,300 litres
+CAR010,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR010,dimension_capacity,Dimension and capacity,Boot space,280 litres
 CAR010,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR010,dimension_capacity,Dimension and capacity,Wheelbase,2500 mm
-CAR010,dimension_capacity,Dimension and capacity,Length,4200 mm
-CAR010,dimension_capacity,Dimension and capacity,Front tyre size,195 / 65 R15
-CAR010,dimension_capacity,Dimension and capacity,Rear tyre size,195 / 65 R15
+CAR010,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR010,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR010,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR010,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
 CAR010,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR010,dimension_capacity,Dimension and capacity,Height,1600 mm
-CAR010,dimension_capacity,Dimension and capacity,Width,1750 mm
-CAR010,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR010,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR010,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR010,dimension_capacity,Dimension and capacity,Alloy wheels,No
 CAR010,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR010,engine_transmission,Engine & transmission,Gear box,6-Speed
 CAR010,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR010,engine_transmission,Engine & transmission,Displacement,1493 cc
+CAR010,engine_transmission,Engine & transmission,Displacement,1497 cc
 CAR010,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR010,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR010,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR010,fuel_performance,Fuel and performance,Mileage (ARAI),17.8 kmpl
-CAR010,fuel_performance,Fuel and performance,Max power (bhp),115bhp@5500rpm
-CAR010,fuel_performance,Fuel and performance,Max torque (Nm),250Nm@4250rpm
-CAR010,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR010,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR010,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR010,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR010,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR010,fuel_performance,Fuel and performance,Sport mode,No
+CAR010,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR010,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
-CAR010,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR010,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
 CAR010,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR010,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR010,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
 CAR010,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR010,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.0 meters
-CAR010,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),11.8 seconds
-CAR010,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR011,dimension_capacity,Dimension and capacity,Ground clearance,184 mm
-CAR011,dimension_capacity,Dimension and capacity,Boot space,279 litres
+CAR010,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR010,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR010,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR011,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR011,dimension_capacity,Dimension and capacity,Boot space,430 litres
 CAR011,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR011,dimension_capacity,Dimension and capacity,Wheelbase,2422 mm
-CAR011,dimension_capacity,Dimension and capacity,Length,3731 mm
-CAR011,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
-CAR011,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR011,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR011,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR011,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR011,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR011,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR011,dimension_capacity,Dimension and capacity,Height,1474 mm
-CAR011,dimension_capacity,Dimension and capacity,Width,1579 mm
-CAR011,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR011,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR011,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR011,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR011,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR011,engine_transmission,Engine & transmission,Gear box,5-Speed
 CAR011,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR011,engine_transmission,Engine & transmission,Displacement,999 cc
-CAR011,engine_transmission,Engine & transmission,Number of cylinders,3 units
+CAR011,engine_transmission,Engine & transmission,Displacement,1956 cc
+CAR011,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR011,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR011,engine_transmission,Engine & transmission,Turbocharger,No
-CAR011,fuel_performance,Fuel and performance,Mileage (ARAI),21.7 kmpl
-CAR011,fuel_performance,Fuel and performance,Max power (bhp),67bhp@5500rpm
-CAR011,fuel_performance,Fuel and performance,Max torque (Nm),91Nm@4250rpm
+CAR011,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR011,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR011,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR011,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
 CAR011,fuel_performance,Fuel and performance,Sport mode,No
 CAR011,fuel_performance,Fuel and performance,Multi drive modes,No
-CAR011,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut with lower transverse link
-CAR011,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Twist beam Suspension with coil spring
+CAR011,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR011,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR011,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR011,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR011,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR011,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR011,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
-CAR011,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),18.46 seconds
-CAR011,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR012,dimension_capacity,Dimension and capacity,Ground clearance,190 mm
-CAR012,dimension_capacity,Dimension and capacity,Boot space,350 litres
-CAR012,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR012,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
-CAR012,dimension_capacity,Dimension and capacity,Length,4500 mm
-CAR012,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
-CAR012,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR011,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR011,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR011,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR012,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR012,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR012,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR012,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR012,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR012,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR012,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR012,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR012,dimension_capacity,Dimension and capacity,Height,1650 mm
-CAR012,dimension_capacity,Dimension and capacity,Width,1800 mm
+CAR012,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR012,dimension_capacity,Dimension and capacity,Width,1850 mm
 CAR012,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR012,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR012,engine_transmission,Engine & transmission,Gear box,6-Speed
-CAR012,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR012,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR012,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR012,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR012,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR012,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR012,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR012,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR012,fuel_performance,Fuel and performance,Mileage (ARAI),17.4 kmpl
-CAR012,fuel_performance,Fuel and performance,Max power (bhp),121bhp@5500rpm
-CAR012,fuel_performance,Fuel and performance,Max torque (Nm),145Nm@4250rpm
-CAR012,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR012,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR012,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR012,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR012,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR012,fuel_performance,Fuel and performance,Sport mode,No
+CAR012,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR012,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR012,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR012,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR012,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR012,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR012,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.2 meters
-CAR012,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),12.5 seconds
+CAR012,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR012,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR012,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
 CAR013,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
-CAR013,dimension_capacity,Dimension and capacity,Boot space,400 litres
-CAR013,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR013,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR013,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
 CAR013,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
-CAR013,dimension_capacity,Dimension and capacity,Length,4800 mm
-CAR013,dimension_capacity,Dimension and capacity,Front tyre size,205 / 60 R16
-CAR013,dimension_capacity,Dimension and capacity,Rear tyre size,205 / 60 R16
+CAR013,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR013,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR013,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR013,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR013,dimension_capacity,Dimension and capacity,Height,1750 mm
-CAR013,dimension_capacity,Dimension and capacity,Width,1900 mm
+CAR013,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR013,dimension_capacity,Dimension and capacity,Width,1850 mm
 CAR013,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
-CAR013,engine_transmission,Engine & transmission,Drivetrain,All Wheel Drive
-CAR013,engine_transmission,Engine & transmission,Gear box,8-Speed
-CAR013,engine_transmission,Engine & transmission,Number of gears,8 units
-CAR013,engine_transmission,Engine & transmission,Displacement,1998 cc
+CAR013,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR013,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR013,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR013,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR013,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR013,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR013,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR013,fuel_performance,Fuel and performance,Mileage (ARAI),16.5 kmpl
-CAR013,fuel_performance,Fuel and performance,Max power (bhp),255bhp@5500rpm
-CAR013,fuel_performance,Fuel and performance,Max torque (Nm),400Nm@4250rpm
-CAR013,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR013,fuel_performance,Fuel and performance,Multi drive modes,Yes
-CAR013,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,Double wishbone
+CAR013,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR013,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR013,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR013,fuel_performance,Fuel and performance,Sport mode,No
+CAR013,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR013,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR013,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR013,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR013,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR013,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
 CAR013,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
-CAR013,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),8.5 seconds
+CAR013,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR013,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR014,dimension_capacity,Dimension and capacity,Ground clearance,175 mm
-CAR014,dimension_capacity,Dimension and capacity,Boot space,250 litres
+CAR014,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR014,dimension_capacity,Dimension and capacity,Boot space,430 litres
 CAR014,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR014,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
-CAR014,dimension_capacity,Dimension and capacity,Length,3600 mm
-CAR014,dimension_capacity,Dimension and capacity,Front tyre size,175 / 65 R14
-CAR014,dimension_capacity,Dimension and capacity,Rear tyre size,175 / 65 R14
+CAR014,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR014,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR014,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR014,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR014,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR014,dimension_capacity,Dimension and capacity,Height,1450 mm
-CAR014,dimension_capacity,Dimension and capacity,Width,1550 mm
-CAR014,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR014,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR014,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR014,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR014,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR014,engine_transmission,Engine & transmission,Gear box,5-Speed
-CAR014,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR014,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR014,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR014,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR014,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR014,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR014,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR014,engine_transmission,Engine & transmission,Turbocharger,No
-CAR014,fuel_performance,Fuel and performance,Mileage (ARAI),23.2 kmpl
-CAR014,fuel_performance,Fuel and performance,Max power (bhp),82bhp@5500rpm
-CAR014,fuel_performance,Fuel and performance,Max torque (Nm),113Nm@4250rpm
+CAR014,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR014,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR014,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR014,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
 CAR014,fuel_performance,Fuel and performance,Sport mode,No
 CAR014,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR014,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
-CAR014,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR014,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR014,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR014,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR014,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR014,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR014,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.8 meters
-CAR014,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),15.2 seconds
-CAR014,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR015,dimension_capacity,Dimension and capacity,Ground clearance,185 mm
-CAR015,dimension_capacity,Dimension and capacity,Boot space,300 litres
+CAR014,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR014,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR014,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR015,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR015,dimension_capacity,Dimension and capacity,Boot space,430 litres
 CAR015,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR015,dimension_capacity,Dimension and capacity,Wheelbase,2500 mm
-CAR015,dimension_capacity,Dimension and capacity,Length,4200 mm
-CAR015,dimension_capacity,Dimension and capacity,Front tyre size,195 / 65 R15
-CAR015,dimension_capacity,Dimension and capacity,Rear tyre size,195 / 65 R15
+CAR015,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR015,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR015,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR015,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR015,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR015,dimension_capacity,Dimension and capacity,Height,1600 mm
-CAR015,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR015,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR015,dimension_capacity,Dimension and capacity,Width,1850 mm
 CAR015,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR015,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR015,engine_transmission,Engine & transmission,Gear box,6-Speed
-CAR015,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR015,engine_transmission,Engine & transmission,Displacement,1493 cc
+CAR015,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR015,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR015,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR015,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR015,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR015,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR015,fuel_performance,Fuel and performance,Mileage (ARAI),17.8 kmpl
-CAR015,fuel_performance,Fuel and performance,Max power (bhp),115bhp@5500rpm
-CAR015,fuel_performance,Fuel and performance,Max torque (Nm),250Nm@4250rpm
-CAR015,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR015,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR015,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR015,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR015,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR015,fuel_performance,Fuel and performance,Sport mode,No
+CAR015,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR015,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR015,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR015,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR015,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR015,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR015,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.0 meters
-CAR015,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),11.8 seconds
+CAR015,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR015,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR015,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR016,dimension_capacity,Dimension and capacity,Ground clearance,184 mm
-CAR016,dimension_capacity,Dimension and capacity,Boot space,279 litres
+CAR016,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR016,dimension_capacity,Dimension and capacity,Boot space,280 litres
 CAR016,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR016,dimension_capacity,Dimension and capacity,Wheelbase,2422 mm
-CAR016,dimension_capacity,Dimension and capacity,Length,3731 mm
+CAR016,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR016,dimension_capacity,Dimension and capacity,Length,3800 mm
 CAR016,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
 CAR016,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
 CAR016,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR016,dimension_capacity,Dimension and capacity,Height,1474 mm
-CAR016,dimension_capacity,Dimension and capacity,Width,1579 mm
+CAR016,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR016,dimension_capacity,Dimension and capacity,Width,1650 mm
 CAR016,dimension_capacity,Dimension and capacity,Alloy wheels,No
 CAR016,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR016,engine_transmission,Engine & transmission,Gear box,5-Speed
 CAR016,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR016,engine_transmission,Engine & transmission,Displacement,999 cc
-CAR016,engine_transmission,Engine & transmission,Number of cylinders,3 units
+CAR016,engine_transmission,Engine & transmission,Displacement,1497 cc
+CAR016,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR016,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR016,engine_transmission,Engine & transmission,Turbocharger,No
-CAR016,fuel_performance,Fuel and performance,Mileage (ARAI),21.7 kmpl
-CAR016,fuel_performance,Fuel and performance,Max power (bhp),67bhp@5500rpm
-CAR016,fuel_performance,Fuel and performance,Max torque (Nm),91Nm@4250rpm
+CAR016,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR016,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR016,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR016,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
 CAR016,fuel_performance,Fuel and performance,Sport mode,No
 CAR016,fuel_performance,Fuel and performance,Multi drive modes,No
-CAR016,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut with lower transverse link
-CAR016,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Twist beam Suspension with coil spring
+CAR016,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR016,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
 CAR016,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR016,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
 CAR016,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
 CAR016,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
-CAR016,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),18.46 seconds
+CAR016,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
 CAR016,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR017,dimension_capacity,Dimension and capacity,Ground clearance,190 mm
-CAR017,dimension_capacity,Dimension and capacity,Boot space,350 litres
+CAR017,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR017,dimension_capacity,Dimension and capacity,Boot space,280 litres
 CAR017,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR017,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
-CAR017,dimension_capacity,Dimension and capacity,Length,4500 mm
-CAR017,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
-CAR017,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR017,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR017,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR017,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR017,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
 CAR017,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR017,dimension_capacity,Dimension and capacity,Height,1650 mm
-CAR017,dimension_capacity,Dimension and capacity,Width,1800 mm
-CAR017,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR017,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR017,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR017,dimension_capacity,Dimension and capacity,Alloy wheels,No
 CAR017,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR017,engine_transmission,Engine & transmission,Gear box,6-Speed
-CAR017,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR017,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR017,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR017,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR017,engine_transmission,Engine & transmission,Displacement,1197 cc
 CAR017,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR017,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR017,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR017,fuel_performance,Fuel and performance,Mileage (ARAI),17.4 kmpl
-CAR017,fuel_performance,Fuel and performance,Max power (bhp),121bhp@5500rpm
-CAR017,fuel_performance,Fuel and performance,Max torque (Nm),145Nm@4250rpm
-CAR017,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR017,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR017,engine_transmission,Engine & transmission,Turbocharger,No
+CAR017,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR017,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR017,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR017,fuel_performance,Fuel and performance,Sport mode,No
+CAR017,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR017,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
-CAR017,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR017,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
 CAR017,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR017,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR017,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
 CAR017,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR017,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.2 meters
-CAR017,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),12.5 seconds
-CAR017,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR017,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR017,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR017,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
 CAR018,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
-CAR018,dimension_capacity,Dimension and capacity,Boot space,400 litres
-CAR018,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR018,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR018,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
 CAR018,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
-CAR018,dimension_capacity,Dimension and capacity,Length,4800 mm
-CAR018,dimension_capacity,Dimension and capacity,Front tyre size,205 / 60 R16
-CAR018,dimension_capacity,Dimension and capacity,Rear tyre size,205 / 60 R16
+CAR018,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR018,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR018,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
 CAR018,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR018,dimension_capacity,Dimension and capacity,Height,1750 mm
-CAR018,dimension_capacity,Dimension and capacity,Width,1900 mm
+CAR018,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR018,dimension_capacity,Dimension and capacity,Width,1850 mm
 CAR018,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
-CAR018,engine_transmission,Engine & transmission,Drivetrain,All Wheel Drive
-CAR018,engine_transmission,Engine & transmission,Gear box,8-Speed
-CAR018,engine_transmission,Engine & transmission,Number of gears,8 units
-CAR018,engine_transmission,Engine & transmission,Displacement,1998 cc
+CAR018,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR018,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR018,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR018,engine_transmission,Engine & transmission,Displacement,1956 cc
 CAR018,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR018,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
 CAR018,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR018,fuel_performance,Fuel and performance,Mileage (ARAI),16.5 kmpl
-CAR018,fuel_performance,Fuel and performance,Max power (bhp),255bhp@5500rpm
-CAR018,fuel_performance,Fuel and performance,Max torque (Nm),400Nm@4250rpm
-CAR018,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR018,fuel_performance,Fuel and performance,Multi drive modes,Yes
-CAR018,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,Double wishbone
+CAR018,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR018,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR018,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR018,fuel_performance,Fuel and performance,Sport mode,No
+CAR018,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR018,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR018,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR018,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR018,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR018,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
 CAR018,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
-CAR018,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),8.5 seconds
+CAR018,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR018,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
-CAR019,dimension_capacity,Dimension and capacity,Ground clearance,175 mm
-CAR019,dimension_capacity,Dimension and capacity,Boot space,250 litres
+CAR019,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR019,dimension_capacity,Dimension and capacity,Boot space,450 litres
 CAR019,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR019,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
-CAR019,dimension_capacity,Dimension and capacity,Length,3600 mm
-CAR019,dimension_capacity,Dimension and capacity,Front tyre size,175 / 65 R14
-CAR019,dimension_capacity,Dimension and capacity,Rear tyre size,175 / 65 R14
+CAR019,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR019,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR019,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR019,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
 CAR019,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR019,dimension_capacity,Dimension and capacity,Height,1450 mm
-CAR019,dimension_capacity,Dimension and capacity,Width,1550 mm
-CAR019,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR019,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR019,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR019,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR019,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
 CAR019,engine_transmission,Engine & transmission,Gear box,5-Speed
 CAR019,engine_transmission,Engine & transmission,Number of gears,5 units
-CAR019,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR019,engine_transmission,Engine & transmission,Displacement,1497 cc
 CAR019,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR019,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR019,engine_transmission,Engine & transmission,Turbocharger,No
-CAR019,fuel_performance,Fuel and performance,Mileage (ARAI),23.2 kmpl
-CAR019,fuel_performance,Fuel and performance,Max power (bhp),82bhp@5500rpm
-CAR019,fuel_performance,Fuel and performance,Max torque (Nm),113Nm@4250rpm
+CAR019,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR019,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR019,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR019,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
 CAR019,fuel_performance,Fuel and performance,Sport mode,No
 CAR019,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR019,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
-CAR019,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR019,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR019,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
-CAR019,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR019,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR019,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR019,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.8 meters
-CAR019,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),15.2 seconds
-CAR019,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
-CAR020,dimension_capacity,Dimension and capacity,Ground clearance,185 mm
-CAR020,dimension_capacity,Dimension and capacity,Boot space,300 litres
+CAR019,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR019,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR019,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR020,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR020,dimension_capacity,Dimension and capacity,Boot space,450 litres
 CAR020,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
-CAR020,dimension_capacity,Dimension and capacity,Wheelbase,2500 mm
-CAR020,dimension_capacity,Dimension and capacity,Length,4200 mm
-CAR020,dimension_capacity,Dimension and capacity,Front tyre size,195 / 65 R15
-CAR020,dimension_capacity,Dimension and capacity,Rear tyre size,195 / 65 R15
+CAR020,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR020,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR020,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR020,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
 CAR020,dimension_capacity,Dimension and capacity,Number of doors,5 units
-CAR020,dimension_capacity,Dimension and capacity,Height,1600 mm
+CAR020,dimension_capacity,Dimension and capacity,Height,1500 mm
 CAR020,dimension_capacity,Dimension and capacity,Width,1750 mm
 CAR020,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
 CAR020,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
-CAR020,engine_transmission,Engine & transmission,Gear box,6-Speed
-CAR020,engine_transmission,Engine & transmission,Number of gears,6 units
-CAR020,engine_transmission,Engine & transmission,Displacement,1493 cc
+CAR020,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR020,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR020,engine_transmission,Engine & transmission,Displacement,1498 cc
 CAR020,engine_transmission,Engine & transmission,Number of cylinders,4 units
 CAR020,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
-CAR020,engine_transmission,Engine & transmission,Turbocharger,Yes
-CAR020,fuel_performance,Fuel and performance,Mileage (ARAI),17.8 kmpl
-CAR020,fuel_performance,Fuel and performance,Max power (bhp),115bhp@5500rpm
-CAR020,fuel_performance,Fuel and performance,Max torque (Nm),250Nm@4250rpm
-CAR020,fuel_performance,Fuel and performance,Sport mode,Yes
-CAR020,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR020,engine_transmission,Engine & transmission,Turbocharger,No
+CAR020,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR020,fuel_performance,Fuel and performance,Max power (bhp),121bhp
+CAR020,fuel_performance,Fuel and performance,Max torque (Nm),145Nm
+CAR020,fuel_performance,Fuel and performance,Sport mode,No
+CAR020,fuel_performance,Fuel and performance,Multi drive modes,No
 CAR020,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
 CAR020,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
 CAR020,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
 CAR020,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
 CAR020,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
-CAR020,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.0 meters
-CAR020,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),11.8 seconds
+CAR020,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR020,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
 CAR020,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR021,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR021,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR021,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR021,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR021,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR021,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR021,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR021,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR021,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR021,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR021,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR021,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR021,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR021,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR021,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR021,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR021,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR021,engine_transmission,Engine & transmission,Turbocharger,No
+CAR021,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR021,fuel_performance,Fuel and performance,Max power (bhp),121bhp
+CAR021,fuel_performance,Fuel and performance,Max torque (Nm),145Nm
+CAR021,fuel_performance,Fuel and performance,Sport mode,No
+CAR021,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR021,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR022,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR022,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR022,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR022,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR022,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR022,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR022,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR022,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR022,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR022,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR022,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR022,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR022,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR022,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR022,engine_transmission,Engine & transmission,Displacement,1956 cc
+CAR022,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR022,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR022,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR022,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR022,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR022,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR022,fuel_performance,Fuel and performance,Sport mode,No
+CAR022,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR022,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR023,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR023,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR023,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR023,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR023,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR023,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR023,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR023,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR023,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR023,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR023,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR023,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR023,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR023,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR023,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR023,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR023,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR023,engine_transmission,Engine & transmission,Turbocharger,No
+CAR023,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR023,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR023,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR023,fuel_performance,Fuel and performance,Sport mode,No
+CAR023,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR023,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR024,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR024,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR024,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR024,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR024,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR024,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR024,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR024,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR024,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR024,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR024,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR024,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR024,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR024,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR024,engine_transmission,Engine & transmission,Displacement,1497 cc
+CAR024,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR024,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR024,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR024,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR024,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR024,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR024,fuel_performance,Fuel and performance,Sport mode,No
+CAR024,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR024,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR025,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR025,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR025,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR025,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR025,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR025,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR025,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR025,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR025,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR025,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR025,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR025,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR025,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR025,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR025,engine_transmission,Engine & transmission,Displacement,1956 cc
+CAR025,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR025,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR025,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR025,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR025,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR025,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR025,fuel_performance,Fuel and performance,Sport mode,No
+CAR025,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR025,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR026,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR026,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR026,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR026,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR026,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR026,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR026,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR026,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR026,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR026,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR026,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR026,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR026,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR026,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR026,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR026,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR026,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR026,engine_transmission,Engine & transmission,Turbocharger,No
+CAR026,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR026,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR026,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR026,fuel_performance,Fuel and performance,Sport mode,No
+CAR026,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR026,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR027,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR027,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR027,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR027,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR027,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR027,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR027,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR027,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR027,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR027,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR027,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR027,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR027,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR027,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR027,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR027,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR027,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR027,engine_transmission,Engine & transmission,Turbocharger,No
+CAR027,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR027,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR027,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR027,fuel_performance,Fuel and performance,Sport mode,No
+CAR027,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR027,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR028,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR028,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR028,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR028,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR028,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR028,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR028,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR028,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR028,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR028,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR028,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR028,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR028,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR028,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR028,engine_transmission,Engine & transmission,Displacement,1497 cc
+CAR028,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR028,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR028,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR028,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR028,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR028,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR028,fuel_performance,Fuel and performance,Sport mode,No
+CAR028,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR028,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR029,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR029,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR029,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR029,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR029,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR029,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR029,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR029,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR029,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR029,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR029,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR029,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR029,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR029,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR029,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR029,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR029,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR029,engine_transmission,Engine & transmission,Turbocharger,No
+CAR029,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR029,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR029,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR029,fuel_performance,Fuel and performance,Sport mode,No
+CAR029,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR029,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR030,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR030,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR030,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR030,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR030,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR030,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR030,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR030,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR030,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR030,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR030,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR030,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR030,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR030,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR030,engine_transmission,Engine & transmission,Displacement,1497 cc
+CAR030,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR030,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR030,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR030,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR030,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR030,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR030,fuel_performance,Fuel and performance,Sport mode,No
+CAR030,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR030,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR031,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR031,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR031,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR031,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR031,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR031,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR031,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR031,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR031,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR031,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR031,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR031,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR031,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR031,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR031,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR031,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR031,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR031,engine_transmission,Engine & transmission,Turbocharger,No
+CAR031,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR031,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR031,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR031,fuel_performance,Fuel and performance,Sport mode,No
+CAR031,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR031,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR032,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR032,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR032,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR032,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR032,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR032,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR032,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR032,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR032,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR032,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR032,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR032,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR032,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR032,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR032,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR032,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR032,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR032,engine_transmission,Engine & transmission,Turbocharger,No
+CAR032,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR032,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR032,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR032,fuel_performance,Fuel and performance,Sport mode,No
+CAR032,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR032,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR033,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR033,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR033,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR033,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR033,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR033,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR033,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR033,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR033,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR033,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR033,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR033,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR033,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR033,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR033,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR033,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR033,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR033,engine_transmission,Engine & transmission,Turbocharger,No
+CAR033,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR033,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR033,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR033,fuel_performance,Fuel and performance,Sport mode,No
+CAR033,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR033,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR034,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR034,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR034,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR034,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR034,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR034,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR034,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR034,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR034,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR034,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR034,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR034,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR034,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR034,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR034,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR034,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR034,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR034,engine_transmission,Engine & transmission,Turbocharger,No
+CAR034,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR034,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR034,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR034,fuel_performance,Fuel and performance,Sport mode,No
+CAR034,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR034,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR035,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR035,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR035,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR035,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR035,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR035,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR035,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR035,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR035,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR035,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR035,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR035,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR035,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR035,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR035,engine_transmission,Engine & transmission,Displacement,1497 cc
+CAR035,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR035,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR035,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR035,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR035,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR035,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR035,fuel_performance,Fuel and performance,Sport mode,No
+CAR035,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR035,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR036,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR036,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR036,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR036,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR036,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR036,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR036,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR036,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR036,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR036,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR036,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR036,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR036,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR036,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR036,engine_transmission,Engine & transmission,Displacement,1956 cc
+CAR036,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR036,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR036,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR036,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR036,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR036,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR036,fuel_performance,Fuel and performance,Sport mode,No
+CAR036,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR036,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR037,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR037,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR037,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR037,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR037,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR037,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR037,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR037,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR037,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR037,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR037,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR037,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR037,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR037,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR037,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR037,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR037,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR037,engine_transmission,Engine & transmission,Turbocharger,No
+CAR037,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR037,fuel_performance,Fuel and performance,Max power (bhp),121bhp
+CAR037,fuel_performance,Fuel and performance,Max torque (Nm),145Nm
+CAR037,fuel_performance,Fuel and performance,Sport mode,No
+CAR037,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR037,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR038,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR038,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR038,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR038,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR038,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR038,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR038,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR038,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR038,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR038,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR038,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR038,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR038,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR038,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR038,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR038,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR038,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR038,engine_transmission,Engine & transmission,Turbocharger,No
+CAR038,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR038,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR038,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR038,fuel_performance,Fuel and performance,Sport mode,No
+CAR038,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR038,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR039,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR039,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR039,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR039,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR039,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR039,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR039,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR039,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR039,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR039,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR039,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR039,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR039,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR039,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR039,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR039,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR039,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR039,engine_transmission,Engine & transmission,Turbocharger,No
+CAR039,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR039,fuel_performance,Fuel and performance,Max power (bhp),121bhp
+CAR039,fuel_performance,Fuel and performance,Max torque (Nm),145Nm
+CAR039,fuel_performance,Fuel and performance,Sport mode,No
+CAR039,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR039,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR040,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR040,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR040,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR040,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR040,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR040,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR040,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR040,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR040,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR040,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR040,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR040,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR040,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR040,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR040,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR040,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR040,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR040,engine_transmission,Engine & transmission,Turbocharger,No
+CAR040,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR040,fuel_performance,Fuel and performance,Max power (bhp),121bhp
+CAR040,fuel_performance,Fuel and performance,Max torque (Nm),145Nm
+CAR040,fuel_performance,Fuel and performance,Sport mode,No
+CAR040,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR040,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR041,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR041,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR041,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR041,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR041,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR041,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR041,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR041,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR041,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR041,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR041,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR041,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR041,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR041,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR041,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR041,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR041,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR041,engine_transmission,Engine & transmission,Turbocharger,No
+CAR041,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR041,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR041,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR041,fuel_performance,Fuel and performance,Sport mode,No
+CAR041,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR041,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR042,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR042,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR042,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR042,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR042,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR042,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR042,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR042,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR042,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR042,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR042,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR042,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR042,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR042,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR042,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR042,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR042,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR042,engine_transmission,Engine & transmission,Turbocharger,No
+CAR042,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR042,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR042,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR042,fuel_performance,Fuel and performance,Sport mode,No
+CAR042,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR042,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR043,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR043,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR043,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR043,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR043,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR043,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR043,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR043,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR043,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR043,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR043,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR043,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR043,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR043,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR043,engine_transmission,Engine & transmission,Displacement,1497 cc
+CAR043,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR043,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR043,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR043,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR043,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR043,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR043,fuel_performance,Fuel and performance,Sport mode,No
+CAR043,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR043,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR044,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR044,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR044,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR044,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR044,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR044,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR044,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR044,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR044,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR044,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR044,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR044,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR044,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR044,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR044,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR044,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR044,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR044,engine_transmission,Engine & transmission,Turbocharger,No
+CAR044,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR044,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR044,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR044,fuel_performance,Fuel and performance,Sport mode,No
+CAR044,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR044,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR045,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR045,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR045,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR045,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR045,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR045,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR045,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR045,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR045,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR045,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR045,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR045,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR045,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR045,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR045,engine_transmission,Engine & transmission,Displacement,1497 cc
+CAR045,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR045,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR045,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR045,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR045,fuel_performance,Fuel and performance,Max power (bhp),115bhp
+CAR045,fuel_performance,Fuel and performance,Max torque (Nm),250Nm
+CAR045,fuel_performance,Fuel and performance,Sport mode,No
+CAR045,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR045,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR046,dimension_capacity,Dimension and capacity,Ground clearance,165 mm
+CAR046,dimension_capacity,Dimension and capacity,Boot space,450 litres
+CAR046,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR046,dimension_capacity,Dimension and capacity,Wheelbase,2600 mm
+CAR046,dimension_capacity,Dimension and capacity,Length,4500 mm
+CAR046,dimension_capacity,Dimension and capacity,Front tyre size,185 / 65 R15
+CAR046,dimension_capacity,Dimension and capacity,Rear tyre size,185 / 65 R15
+CAR046,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR046,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR046,dimension_capacity,Dimension and capacity,Width,1750 mm
+CAR046,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR046,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR046,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR046,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR046,engine_transmission,Engine & transmission,Displacement,1498 cc
+CAR046,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR046,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR046,engine_transmission,Engine & transmission,Turbocharger,No
+CAR046,fuel_performance,Fuel and performance,Mileage (ARAI),18 kmpl
+CAR046,fuel_performance,Fuel and performance,Max power (bhp),121bhp
+CAR046,fuel_performance,Fuel and performance,Max torque (Nm),145Nm
+CAR046,fuel_performance,Fuel and performance,Sport mode,No
+CAR046,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR046,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR047,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR047,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR047,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR047,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR047,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR047,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR047,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR047,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR047,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR047,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR047,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR047,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR047,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR047,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR047,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR047,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR047,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR047,engine_transmission,Engine & transmission,Turbocharger,No
+CAR047,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR047,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR047,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR047,fuel_performance,Fuel and performance,Sport mode,No
+CAR047,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR047,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR048,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR048,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR048,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR048,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR048,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR048,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR048,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR048,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR048,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR048,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR048,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR048,engine_transmission,Engine & transmission,Drivetrain,All Wheel Drive
+CAR048,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR048,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR048,engine_transmission,Engine & transmission,Displacement,2755 cc
+CAR048,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR048,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR048,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR048,fuel_performance,Fuel and performance,Mileage (ARAI),14 kmpl
+CAR048,fuel_performance,Fuel and performance,Max power (bhp),201bhp
+CAR048,fuel_performance,Fuel and performance,Max torque (Nm),500Nm
+CAR048,fuel_performance,Fuel and performance,Sport mode,Yes
+CAR048,fuel_performance,Fuel and performance,Multi drive modes,Yes
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR048,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes
+CAR049,dimension_capacity,Dimension and capacity,Ground clearance,170 mm
+CAR049,dimension_capacity,Dimension and capacity,Boot space,280 litres
+CAR049,dimension_capacity,Dimension and capacity,Number of seating rows,2 units
+CAR049,dimension_capacity,Dimension and capacity,Wheelbase,2400 mm
+CAR049,dimension_capacity,Dimension and capacity,Length,3800 mm
+CAR049,dimension_capacity,Dimension and capacity,Front tyre size,165 / 70 R14
+CAR049,dimension_capacity,Dimension and capacity,Rear tyre size,165 / 70 R14
+CAR049,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR049,dimension_capacity,Dimension and capacity,Height,1500 mm
+CAR049,dimension_capacity,Dimension and capacity,Width,1650 mm
+CAR049,dimension_capacity,Dimension and capacity,Alloy wheels,No
+CAR049,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR049,engine_transmission,Engine & transmission,Gear box,6-Speed
+CAR049,engine_transmission,Engine & transmission,Number of gears,6 units
+CAR049,engine_transmission,Engine & transmission,Displacement,1197 cc
+CAR049,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR049,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR049,engine_transmission,Engine & transmission,Turbocharger,No
+CAR049,fuel_performance,Fuel and performance,Mileage (ARAI),22 kmpl
+CAR049,fuel_performance,Fuel and performance,Max power (bhp),83bhp
+CAR049,fuel_performance,Fuel and performance,Max torque (Nm),113Nm
+CAR049,fuel_performance,Fuel and performance,Sport mode,No
+CAR049,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Torsion beam
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Drum
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,4.9 meters
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),14.5 seconds
+CAR049,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,No
+CAR050,dimension_capacity,Dimension and capacity,Ground clearance,200 mm
+CAR050,dimension_capacity,Dimension and capacity,Boot space,430 litres
+CAR050,dimension_capacity,Dimension and capacity,Number of seating rows,3 units
+CAR050,dimension_capacity,Dimension and capacity,Wheelbase,2700 mm
+CAR050,dimension_capacity,Dimension and capacity,Length,4600 mm
+CAR050,dimension_capacity,Dimension and capacity,Front tyre size,215 / 60 R16
+CAR050,dimension_capacity,Dimension and capacity,Rear tyre size,215 / 60 R16
+CAR050,dimension_capacity,Dimension and capacity,Number of doors,5 units
+CAR050,dimension_capacity,Dimension and capacity,Height,1700 mm
+CAR050,dimension_capacity,Dimension and capacity,Width,1850 mm
+CAR050,dimension_capacity,Dimension and capacity,Alloy wheels,Yes
+CAR050,engine_transmission,Engine & transmission,Drivetrain,Front Wheel Drive
+CAR050,engine_transmission,Engine & transmission,Gear box,5-Speed
+CAR050,engine_transmission,Engine & transmission,Number of gears,5 units
+CAR050,engine_transmission,Engine & transmission,Displacement,1956 cc
+CAR050,engine_transmission,Engine & transmission,Number of cylinders,4 units
+CAR050,engine_transmission,Engine & transmission,Valve/cylinder (configuration),4 units
+CAR050,engine_transmission,Engine & transmission,Turbocharger,Yes
+CAR050,fuel_performance,Fuel and performance,Mileage (ARAI),16 kmpl
+CAR050,fuel_performance,Fuel and performance,Max power (bhp),170bhp
+CAR050,fuel_performance,Fuel and performance,Max torque (Nm),350Nm
+CAR050,fuel_performance,Fuel and performance,Sport mode,No
+CAR050,fuel_performance,Fuel and performance,Multi drive modes,No
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Suspension front type,MacPherson strut
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Suspension rear type,Multi-link
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Front brake type,Disc
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Rear brake type,Disc
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Steering type,Power
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Minimum turning radius,5.5 meters
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Acceleration (0-100 kmph),10.5 seconds
+CAR050,suspension_steering_brakes,Suspension steering and brakes,Steering adjustment,Yes

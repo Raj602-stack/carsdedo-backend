@@ -1,61 +1,151 @@
 car_code,title,description,sort_order
-CAR001,Powerful Engine,Excellent performance on highways with smooth acceleration,1
-CAR001,Luxury Interior,Premium leather seating and high-quality materials throughout,2
-CAR001,Advanced Technology,Latest infotainment and safety features included,3
-CAR002,Reliable Performance,Proven Honda engine with excellent fuel efficiency,1
-CAR002,Spacious Cabin,Comfortable seating for family with ample legroom,2
-CAR002,Low Maintenance,Affordable service costs and reliable parts availability,3
-CAR003,Premium Brand,BMW quality and prestige with excellent resale value,1
-CAR003,Powerful Engine,Strong performance with smooth automatic transmission,2
-CAR003,Luxury Features,High-end amenities and premium interior finish,3
-CAR004,Fuel Efficient,Excellent mileage perfect for city driving,1
-CAR004,Budget Friendly,Affordable price with low maintenance costs,2
-CAR004,Reliable,Maruti's proven reliability and service network,3
-CAR005,Modern Design,Stylish SUV with contemporary looks,1
-CAR005,Feature Rich,Loaded with latest technology and safety features,2
-CAR005,Spacious,Comfortable cabin with good boot space,3
-CAR006,Rugged SUV,Perfect for both city and highway driving,1
-CAR006,Powerful Diesel,Strong engine performance with good torque,2
-CAR006,Premium Build,High-quality construction and materials,3
-CAR007,Compact SUV,Perfect size for city parking and maneuverability,1
-CAR007,Eco-Friendly,Available in electric variant for environment conscious buyers,2
-CAR007,Modern Features,Latest technology and safety features,3
-CAR008,Luxury Brand,Mercedes-Benz prestige and quality,1
-CAR008,Premium Interior,High-end materials and excellent craftsmanship,2
-CAR008,Advanced Safety,Comprehensive safety features and driver assistance,3
-CAR009,Spacious Hatchback,Surprisingly roomy interior for a hatchback,1
-CAR009,Fuel Efficient,Excellent mileage for daily commuting,2
-CAR009,Affordable,Great value for money with low running costs,3
-CAR010,Feature Packed,Loaded with latest technology and connectivity,1
-CAR010,Modern Design,Contemporary styling that stands out,2
-CAR010,Reliable,Proven Kia quality and service network,3
-CAR011,7 Seater,Perfect for large families with spacious third row,1
-CAR011,Powerful Diesel,Strong engine with excellent torque,2
-CAR011,Spacious,Ample space for passengers and luggage,3
-CAR012,German Engineering,Audi's renowned build quality and performance,1
-CAR012,Luxury Features,Premium amenities and high-end finish,2
-CAR012,Strong Resale,Excellent resale value in the market,3
-CAR013,Stylish Design,Modern and attractive hatchback design,1
-CAR013,Fuel Efficient,Great mileage for city and highway,2
-CAR013,Feature Rich,Good features for the price segment,3
-CAR014,Connected Car,Advanced connectivity and smart features,1
-CAR014,Spacious SUV,Room for family with good boot space,2
-CAR014,Modern Technology,Latest infotainment and safety systems,3
-CAR015,Reliable Brand,Ford's proven reliability and service,1
-CAR015,Compact Size,Easy to park and maneuver in city,2
-CAR015,Good Value,Affordable pricing with decent features,3
-CAR016,Safety First,Volvo's world-renowned safety features,1
-CAR016,Luxury SUV,Premium build quality and materials,2
-CAR016,Powerful Performance,Strong engine with smooth transmission,3
-CAR017,Budget Sedan,Affordable sedan with good features,1
-CAR017,Fuel Efficient,Excellent mileage for daily use,2
-CAR017,Reliable,Maruti's trusted reliability and service,3
-CAR018,Premium Sedan,Skoda quality with European engineering,1
-CAR018,Powerful Diesel,Strong performance with good fuel economy,2
-CAR018,Comfortable,Excellent ride quality and comfort,3
-CAR019,Value for Money,Great features at competitive price,1
-CAR019,Compact SUV,Perfect size for city driving,2
-CAR019,Modern Design,Contemporary styling and features,3
-CAR020,Luxury SUV,Land Rover's premium quality and prestige,1
-CAR020,Off-Road Capable,Excellent for both city and off-road,2
-CAR020,Premium Features,High-end amenities and technology,3
+CAR001,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR001,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR001,Low Maintenance,Affordable servicing with extensive service network,3
+CAR002,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR002,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR002,Reliable Ownership,Proven reliability with widely available service support,3
+CAR003,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR003,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR003,Reliable Ownership,Proven reliability with widely available service support,3
+CAR004,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR004,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR004,Low Maintenance,Affordable servicing with extensive service network,3
+CAR005,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR005,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR005,Reliable Ownership,Proven reliability with widely available service support,3
+CAR006,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR006,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR006,Reliable Ownership,Proven reliability with widely available service support,3
+CAR007,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR007,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR007,Reliable Ownership,Proven reliability with widely available service support,3
+CAR008,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR008,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR008,Low Maintenance,Affordable servicing with extensive service network,3
+CAR009,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR009,Low Running Cost,CNG setup significantly reduces fuel expenses,2
+CAR009,Low Maintenance,Affordable servicing with extensive service network,3
+CAR010,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR010,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR010,Low Maintenance,Affordable servicing with extensive service network,3
+CAR011,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR011,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR011,Reliable Ownership,Proven reliability with widely available service support,3
+CAR012,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR012,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR012,Reliable Ownership,Proven reliability with widely available service support,3
+CAR013,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR013,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR013,Low Maintenance,Affordable servicing with extensive service network,3
+CAR014,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR014,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR014,Reliable Ownership,Proven reliability with widely available service support,3
+CAR015,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR015,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR015,Low Maintenance,Affordable servicing with extensive service network,3
+CAR016,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR016,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR016,Low Maintenance,Affordable servicing with extensive service network,3
+CAR017,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR017,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR017,Low Maintenance,Affordable servicing with extensive service network,3
+CAR018,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR018,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR018,Reliable Ownership,Proven reliability with widely available service support,3
+CAR019,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR019,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR019,Low Maintenance,Affordable servicing with extensive service network,3
+CAR020,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR020,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR020,Reliable Ownership,Proven reliability with widely available service support,3
+CAR021,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR021,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR021,Reliable Ownership,Proven reliability with widely available service support,3
+CAR022,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR022,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR022,Low Maintenance,Affordable servicing with extensive service network,3
+CAR023,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR023,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR023,Low Maintenance,Affordable servicing with extensive service network,3
+CAR024,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR024,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR024,Low Maintenance,Affordable servicing with extensive service network,3
+CAR025,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR025,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR025,Reliable Ownership,Proven reliability with widely available service support,3
+CAR026,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR026,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR026,Low Maintenance,Affordable servicing with extensive service network,3
+CAR027,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR027,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR027,Low Maintenance,Affordable servicing with extensive service network,3
+CAR028,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR028,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR028,Low Maintenance,Affordable servicing with extensive service network,3
+CAR029,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR029,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR029,Low Maintenance,Affordable servicing with extensive service network,3
+CAR030,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR030,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR030,Low Maintenance,Affordable servicing with extensive service network,3
+CAR031,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR031,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR031,Low Maintenance,Affordable servicing with extensive service network,3
+CAR032,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR032,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR032,Low Maintenance,Affordable servicing with extensive service network,3
+CAR033,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR033,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR033,Low Maintenance,Affordable servicing with extensive service network,3
+CAR034,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR034,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR034,Low Maintenance,Affordable servicing with extensive service network,3
+CAR035,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR035,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR035,Reliable Ownership,Proven reliability with widely available service support,3
+CAR036,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR036,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR036,Reliable Ownership,Proven reliability with widely available service support,3
+CAR037,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR037,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR037,Low Maintenance,Affordable servicing with extensive service network,3
+CAR038,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR038,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR038,Reliable Ownership,Proven reliability with widely available service support,3
+CAR039,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR039,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR039,Low Maintenance,Affordable servicing with extensive service network,3
+CAR040,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR040,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR040,Low Maintenance,Affordable servicing with extensive service network,3
+CAR041,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR041,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR041,Low Maintenance,Affordable servicing with extensive service network,3
+CAR042,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR042,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR042,Low Maintenance,Affordable servicing with extensive service network,3
+CAR043,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR043,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR043,Reliable Ownership,Proven reliability with widely available service support,3
+CAR044,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR044,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR044,Reliable Ownership,Proven reliability with widely available service support,3
+CAR045,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR045,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR045,Reliable Ownership,Proven reliability with widely available service support,3
+CAR046,Comfortable Ride,Stable ride quality with good highway comfort,1
+CAR046,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR046,Low Maintenance,Affordable servicing with extensive service network,3
+CAR047,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR047,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR047,Low Maintenance,Affordable servicing with extensive service network,3
+CAR048,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR048,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR048,Luxury Experience,Premium ownership experience with top-tier comfort and safety,3
+CAR049,Easy City Drive,Compact size makes city driving and parking effortless,1
+CAR049,Fuel Efficient,Optimized engine tuning offers good fuel efficiency,2
+CAR049,Low Maintenance,Affordable servicing with extensive service network,3
+CAR050,Strong Road Presence,High ground clearance with commanding driving position,1
+CAR050,Strong Diesel Engine,Good torque delivery with efficient long-distance performance,2
+CAR050,Low Maintenance,Affordable servicing with extensive service network,3

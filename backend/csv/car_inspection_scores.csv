@@ -1,101 +1,251 @@
-"car_code","section_key","score","rating","status","remarks"
-"CAR001","core_systems","9.6","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR001","supporting_systems","8.7","good","minor","Supporting systems in good condition, all components operational"
-"CAR001","interiors_ac","8.8","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR001","exteriors_lights","7.8","fair","minor","Imperfections on body panels but no impact on build quality"
-"CAR001","wear_tear_parts","7.5","fair","minor","Few components have experienced wear and tear"
-"CAR002","core_systems","9.2","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR002","supporting_systems","8.5","good","minor","Supporting systems in good condition, all components operational"
-"CAR002","interiors_ac","9.0","excellent","flawless","Interiors and AC systems functioning properly, well maintained"
-"CAR002","exteriors_lights","8.2","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR002","wear_tear_parts","8.0","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR003","core_systems","9.8","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR003","supporting_systems","9.0","excellent","flawless","Supporting systems in good condition, all components operational"
-"CAR003","interiors_ac","9.5","excellent","flawless","Interiors and AC systems functioning properly, well maintained"
-"CAR003","exteriors_lights","9.2","excellent","flawless","Exterior and lighting systems in acceptable condition"
-"CAR003","wear_tear_parts","8.5","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR004","core_systems","8.0","good","minor","Core systems functioning well with excellent performance"
-"CAR004","supporting_systems","7.8","fair","minor","Supporting systems in good condition, all components operational"
-"CAR004","interiors_ac","7.5","fair","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR004","exteriors_lights","7.2","fair","minor","Exterior and lighting systems in acceptable condition"
-"CAR004","wear_tear_parts","6.8","fair","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR005","core_systems","9.4","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR005","supporting_systems","8.8","good","minor","Supporting systems in good condition, all components operational"
-"CAR005","interiors_ac","8.9","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR005","exteriors_lights","8.5","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR005","wear_tear_parts","8.2","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR006","core_systems","9.5","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR006","supporting_systems","9.1","excellent","flawless","Supporting systems in good condition, all components operational"
-"CAR006","interiors_ac","9.2","excellent","flawless","Interiors and AC systems functioning properly, well maintained"
-"CAR005","exteriors_lights","8.7","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR006","wear_tear_parts","8.4","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR007","core_systems","8.5","good","minor","Core systems functioning well with excellent performance"
-"CAR007","supporting_systems","8.0","good","minor","Supporting systems in good condition, all components operational"
-"CAR007","interiors_ac","8.2","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR007","exteriors_lights","7.9","fair","minor","Exterior and lighting systems in acceptable condition"
-"CAR007","wear_tear_parts","7.6","fair","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR008","core_systems","9.7","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR008","supporting_systems","9.2","excellent","flawless","Supporting systems in good condition, all components operational"
-"CAR008","interiors_ac","9.4","excellent","flawless","Interiors and AC systems functioning properly, well maintained"
-"CAR008","exteriors_lights","9.0","excellent","flawless","Exterior and lighting systems in acceptable condition"
-"CAR008","wear_tear_parts","8.8","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR009","core_systems","7.8","fair","minor","Core systems functioning well with excellent performance"
-"CAR009","supporting_systems","7.5","fair","minor","Supporting systems in good condition, all components operational"
-"CAR009","interiors_ac","7.2","fair","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR009","exteriors_lights","7.0","fair","minor","Exterior and lighting systems in acceptable condition"
-"CAR009","wear_tear_parts","6.5","fair","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR010","core_systems","9.3","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR010","supporting_systems","8.6","good","minor","Supporting systems in good condition, all components operational"
-"CAR010","interiors_ac","8.7","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR010","exteriors_lights","8.3","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR010","wear_tear_parts","8.1","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR011","core_systems","9.1","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR011","supporting_systems","8.9","good","minor","Supporting systems in good condition, all components operational"
-"CAR011","interiors_ac","8.8","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR011","exteriors_lights","8.4","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR011","wear_tear_parts","8.0","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR012","core_systems","9.6","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR012","supporting_systems","9.0","excellent","flawless","Supporting systems in good condition, all components operational"
-"CAR012","interiors_ac","9.3","excellent","flawless","Interiors and AC systems functioning properly, well maintained"
-"CAR012","exteriors_lights","9.1","excellent","flawless","Exterior and lighting systems in acceptable condition"
-"CAR012","wear_tear_parts","8.7","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR013","core_systems","8.2","good","minor","Core systems functioning well with excellent performance"
-"CAR013","supporting_systems","7.9","fair","minor","Supporting systems in good condition, all components operational"
-"CAR013","interiors_ac","7.8","fair","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR013","exteriors_lights","7.6","fair","minor","Exterior and lighting systems in acceptable condition"
-"CAR013","wear_tear_parts","7.3","fair","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR014","core_systems","9.0","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR014","supporting_systems","8.7","good","minor","Supporting systems in good condition, all components operational"
-"CAR014","interiors_ac","8.8","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR014","exteriors_lights","8.6","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR014","wear_tear_parts","8.3","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR015","core_systems","8.3","good","minor","Core systems functioning well with excellent performance"
-"CAR015","supporting_systems","8.1","good","minor","Supporting systems in good condition, all components operational"
-"CAR015","interiors_ac","7.9","fair","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR015","exteriors_lights","7.7","fair","minor","Exterior and lighting systems in acceptable condition"
-"CAR015","wear_tear_parts","7.4","fair","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR016","core_systems","9.5","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR016","supporting_systems","9.3","excellent","flawless","Supporting systems in good condition, all components operational"
-"CAR016","interiors_ac","9.4","excellent","flawless","Interiors and AC systems functioning properly, well maintained"
-"CAR016","exteriors_lights","9.2","excellent","flawless","Exterior and lighting systems in acceptable condition"
-"CAR016","wear_tear_parts","8.9","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR017","core_systems","8.1","good","minor","Core systems functioning well with excellent performance"
-"CAR017","supporting_systems","7.8","fair","minor","Supporting systems in good condition, all components operational"
-"CAR017","interiors_ac","7.7","fair","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR017","exteriors_lights","7.5","fair","minor","Exterior and lighting systems in acceptable condition"
-"CAR017","wear_tear_parts","7.2","fair","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR018","core_systems","9.2","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR018","supporting_systems","8.8","good","minor","Supporting systems in good condition, all components operational"
-"CAR018","interiors_ac","8.9","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR018","exteriors_lights","8.5","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR018","wear_tear_parts","8.2","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR019","core_systems","8.4","good","minor","Core systems functioning well with excellent performance"
-"CAR019","supporting_systems","8.2","good","minor","Supporting systems in good condition, all components operational"
-"CAR019","interiors_ac","8.0","good","minor","Interiors and AC systems functioning properly, well maintained"
-"CAR019","exteriors_lights","7.9","fair","minor","Exterior and lighting systems in acceptable condition"
-"CAR019","wear_tear_parts","7.7","fair","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
-"CAR020","core_systems","9.4","excellent","flawless","Core systems functioning well with excellent performance"
-"CAR020","supporting_systems","9.1","excellent","flawless","Supporting systems in good condition, all components operational"
-"CAR020","interiors_ac","9.2","excellent","flawless","Interiors and AC systems functioning properly, well maintained"
-"CAR020","exteriors_lights","8.9","good","minor","Exterior and lighting systems in acceptable condition"
-"CAR020","wear_tear_parts","8.6","good","minor","Wear and tear parts showing expected usage, replacement may be needed soon"
+car_code,section_key,score,rating,status,remarks
+CAR001,core_systems,9.6,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR001,supporting_systems,8.9,good,minor,Supporting systems are well maintained and fully operational
+CAR001,interiors_ac,9.7,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR001,exteriors_lights,9.5,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR001,wear_tear_parts,8.3,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR002,core_systems,8.4,good,minor,Core systems functioning well with smooth and reliable performance
+CAR002,supporting_systems,8.2,good,minor,Supporting systems are well maintained and fully operational
+CAR002,interiors_ac,9.6,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR002,exteriors_lights,9.2,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR002,wear_tear_parts,8.2,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR003,core_systems,9.1,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR003,supporting_systems,9.4,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR003,interiors_ac,9.1,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR003,exteriors_lights,9.2,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR003,wear_tear_parts,8.3,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR004,core_systems,9.7,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR004,supporting_systems,9.3,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR004,interiors_ac,9.0,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR004,exteriors_lights,8.4,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR004,wear_tear_parts,8.3,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR005,core_systems,8.6,good,minor,Core systems functioning well with smooth and reliable performance
+CAR005,supporting_systems,9.1,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR005,interiors_ac,8.7,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR005,exteriors_lights,8.4,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR005,wear_tear_parts,8.4,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR006,core_systems,8.6,good,minor,Core systems functioning well with smooth and reliable performance
+CAR006,supporting_systems,9.5,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR006,interiors_ac,9.3,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR006,exteriors_lights,9.7,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR006,wear_tear_parts,9.8,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR007,core_systems,8.7,good,minor,Core systems functioning well with smooth and reliable performance
+CAR007,supporting_systems,9.8,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR007,interiors_ac,8.6,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR007,exteriors_lights,8.5,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR007,wear_tear_parts,8.5,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR008,core_systems,9.6,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR008,supporting_systems,9.4,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR008,interiors_ac,9.1,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR008,exteriors_lights,9.3,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR008,wear_tear_parts,8.6,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR009,core_systems,8.9,good,minor,Core systems functioning well with smooth and reliable performance
+CAR009,supporting_systems,9.1,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR009,interiors_ac,8.5,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR009,exteriors_lights,8.5,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR009,wear_tear_parts,9.6,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR010,core_systems,8.6,good,minor,Core systems functioning well with smooth and reliable performance
+CAR010,supporting_systems,9.1,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR010,interiors_ac,8.3,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR010,exteriors_lights,8.4,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR010,wear_tear_parts,8.1,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR011,core_systems,8.1,good,minor,Core systems functioning well with smooth and reliable performance
+CAR011,supporting_systems,9.3,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR011,interiors_ac,9.3,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR011,exteriors_lights,9.5,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR011,wear_tear_parts,9.3,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR012,core_systems,9.3,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR012,supporting_systems,9.3,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR012,interiors_ac,8.1,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR012,exteriors_lights,8.8,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR012,wear_tear_parts,8.9,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR013,core_systems,8.4,good,minor,Core systems functioning well with smooth and reliable performance
+CAR013,supporting_systems,8.8,good,minor,Supporting systems are well maintained and fully operational
+CAR013,interiors_ac,9.6,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR013,exteriors_lights,8.8,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR013,wear_tear_parts,9.0,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR014,core_systems,9.0,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR014,supporting_systems,9.1,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR014,interiors_ac,9.4,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR014,exteriors_lights,9.4,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR014,wear_tear_parts,8.6,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR015,core_systems,9.6,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR015,supporting_systems,9.3,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR015,interiors_ac,8.6,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR015,exteriors_lights,9.0,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR015,wear_tear_parts,8.8,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR016,core_systems,9.8,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR016,supporting_systems,8.8,good,minor,Supporting systems are well maintained and fully operational
+CAR016,interiors_ac,9.5,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR016,exteriors_lights,9.5,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR016,wear_tear_parts,8.8,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR017,core_systems,8.3,good,minor,Core systems functioning well with smooth and reliable performance
+CAR017,supporting_systems,9.3,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR017,interiors_ac,8.6,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR017,exteriors_lights,8.9,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR017,wear_tear_parts,8.6,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR018,core_systems,8.6,good,minor,Core systems functioning well with smooth and reliable performance
+CAR018,supporting_systems,8.2,good,minor,Supporting systems are well maintained and fully operational
+CAR018,interiors_ac,8.5,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR018,exteriors_lights,9.6,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR018,wear_tear_parts,8.8,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR019,core_systems,8.1,good,minor,Core systems functioning well with smooth and reliable performance
+CAR019,supporting_systems,8.2,good,minor,Supporting systems are well maintained and fully operational
+CAR019,interiors_ac,8.8,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR019,exteriors_lights,8.5,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR019,wear_tear_parts,8.3,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR020,core_systems,9.3,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR020,supporting_systems,8.5,good,minor,Supporting systems are well maintained and fully operational
+CAR020,interiors_ac,8.1,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR020,exteriors_lights,9.7,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR020,wear_tear_parts,8.6,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR021,core_systems,8.3,good,minor,Core systems functioning well with smooth and reliable performance
+CAR021,supporting_systems,9.7,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR021,interiors_ac,9.7,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR021,exteriors_lights,9.7,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR021,wear_tear_parts,9.4,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR022,core_systems,9.4,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR022,supporting_systems,8.8,good,minor,Supporting systems are well maintained and fully operational
+CAR022,interiors_ac,8.4,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR022,exteriors_lights,9.4,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR022,wear_tear_parts,8.8,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR023,core_systems,9.5,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR023,supporting_systems,8.6,good,minor,Supporting systems are well maintained and fully operational
+CAR023,interiors_ac,8.6,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR023,exteriors_lights,8.5,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR023,wear_tear_parts,8.6,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR024,core_systems,8.5,good,minor,Core systems functioning well with smooth and reliable performance
+CAR024,supporting_systems,9.4,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR024,interiors_ac,9.3,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR024,exteriors_lights,8.9,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR024,wear_tear_parts,8.6,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR025,core_systems,8.9,good,minor,Core systems functioning well with smooth and reliable performance
+CAR025,supporting_systems,9.6,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR025,interiors_ac,9.0,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR025,exteriors_lights,8.2,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR025,wear_tear_parts,8.4,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR026,core_systems,8.1,good,minor,Core systems functioning well with smooth and reliable performance
+CAR026,supporting_systems,8.6,good,minor,Supporting systems are well maintained and fully operational
+CAR026,interiors_ac,8.7,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR026,exteriors_lights,8.6,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR026,wear_tear_parts,8.7,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR027,core_systems,8.5,good,minor,Core systems functioning well with smooth and reliable performance
+CAR027,supporting_systems,8.2,good,minor,Supporting systems are well maintained and fully operational
+CAR027,interiors_ac,8.7,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR027,exteriors_lights,9.5,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR027,wear_tear_parts,8.3,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR028,core_systems,8.7,good,minor,Core systems functioning well with smooth and reliable performance
+CAR028,supporting_systems,9.1,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR028,interiors_ac,9.2,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR028,exteriors_lights,9.6,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR028,wear_tear_parts,8.2,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR029,core_systems,9.4,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR029,supporting_systems,8.4,good,minor,Supporting systems are well maintained and fully operational
+CAR029,interiors_ac,8.9,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR029,exteriors_lights,9.3,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR029,wear_tear_parts,8.6,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR030,core_systems,8.8,good,minor,Core systems functioning well with smooth and reliable performance
+CAR030,supporting_systems,8.8,good,minor,Supporting systems are well maintained and fully operational
+CAR030,interiors_ac,8.6,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR030,exteriors_lights,8.5,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR030,wear_tear_parts,8.5,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR031,core_systems,9.4,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR031,supporting_systems,8.3,good,minor,Supporting systems are well maintained and fully operational
+CAR031,interiors_ac,8.4,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR031,exteriors_lights,9.2,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR031,wear_tear_parts,9.1,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR032,core_systems,8.9,good,minor,Core systems functioning well with smooth and reliable performance
+CAR032,supporting_systems,8.5,good,minor,Supporting systems are well maintained and fully operational
+CAR032,interiors_ac,9.0,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR032,exteriors_lights,8.5,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR032,wear_tear_parts,9.3,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR033,core_systems,9.7,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR033,supporting_systems,8.1,good,minor,Supporting systems are well maintained and fully operational
+CAR033,interiors_ac,9.4,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR033,exteriors_lights,8.2,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR033,wear_tear_parts,9.2,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR034,core_systems,8.6,good,minor,Core systems functioning well with smooth and reliable performance
+CAR034,supporting_systems,9.3,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR034,interiors_ac,9.1,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR034,exteriors_lights,9.4,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR034,wear_tear_parts,8.2,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR035,core_systems,8.9,good,minor,Core systems functioning well with smooth and reliable performance
+CAR035,supporting_systems,9.4,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR035,interiors_ac,8.6,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR035,exteriors_lights,8.1,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR035,wear_tear_parts,8.9,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR036,core_systems,8.4,good,minor,Core systems functioning well with smooth and reliable performance
+CAR036,supporting_systems,9.5,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR036,interiors_ac,9.3,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR036,exteriors_lights,9.3,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR036,wear_tear_parts,8.4,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR037,core_systems,8.3,good,minor,Core systems functioning well with smooth and reliable performance
+CAR037,supporting_systems,8.7,good,minor,Supporting systems are well maintained and fully operational
+CAR037,interiors_ac,9.7,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR037,exteriors_lights,9.4,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR037,wear_tear_parts,8.7,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR038,core_systems,8.2,good,minor,Core systems functioning well with smooth and reliable performance
+CAR038,supporting_systems,9.2,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR038,interiors_ac,9.1,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR038,exteriors_lights,9.1,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR038,wear_tear_parts,9.7,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR039,core_systems,9.4,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR039,supporting_systems,9.6,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR039,interiors_ac,8.7,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR039,exteriors_lights,9.3,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR039,wear_tear_parts,8.7,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR040,core_systems,9.8,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR040,supporting_systems,9.2,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR040,interiors_ac,9.7,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR040,exteriors_lights,8.9,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR040,wear_tear_parts,9.6,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR041,core_systems,9.1,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR041,supporting_systems,8.1,good,minor,Supporting systems are well maintained and fully operational
+CAR041,interiors_ac,9.8,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR041,exteriors_lights,9.1,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR041,wear_tear_parts,8.9,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR042,core_systems,9.0,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR042,supporting_systems,9.0,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR042,interiors_ac,9.5,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR042,exteriors_lights,8.6,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR042,wear_tear_parts,9.7,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR043,core_systems,8.1,good,minor,Core systems functioning well with smooth and reliable performance
+CAR043,supporting_systems,8.8,good,minor,Supporting systems are well maintained and fully operational
+CAR043,interiors_ac,9.5,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR043,exteriors_lights,8.9,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR043,wear_tear_parts,9.3,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR044,core_systems,8.8,good,minor,Core systems functioning well with smooth and reliable performance
+CAR044,supporting_systems,9.0,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR044,interiors_ac,9.3,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR044,exteriors_lights,9.0,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR044,wear_tear_parts,8.2,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR045,core_systems,9.7,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR045,supporting_systems,9.3,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR045,interiors_ac,8.9,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR045,exteriors_lights,9.1,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR045,wear_tear_parts,8.4,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR046,core_systems,8.3,good,minor,Core systems functioning well with smooth and reliable performance
+CAR046,supporting_systems,8.2,good,minor,Supporting systems are well maintained and fully operational
+CAR046,interiors_ac,9.6,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR046,exteriors_lights,8.4,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR046,wear_tear_parts,9.0,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR047,core_systems,9.4,excellent,flawless,Core systems functioning well with smooth and reliable performance
+CAR047,supporting_systems,9.5,excellent,flawless,Supporting systems are well maintained and fully operational
+CAR047,interiors_ac,9.2,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR047,exteriors_lights,9.7,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR047,wear_tear_parts,8.5,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR048,core_systems,8.5,good,minor,Core systems functioning well with smooth and reliable performance
+CAR048,supporting_systems,8.5,good,minor,Supporting systems are well maintained and fully operational
+CAR048,interiors_ac,9.1,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR048,exteriors_lights,8.7,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR048,wear_tear_parts,8.7,good,minor,Wear and tear parts show normal usage and are in good condition
+CAR049,core_systems,8.5,good,minor,Core systems functioning well with smooth and reliable performance
+CAR049,supporting_systems,8.1,good,minor,Supporting systems are well maintained and fully operational
+CAR049,interiors_ac,8.8,good,minor,"Interiors and AC system are clean, comfortable, and working properly"
+CAR049,exteriors_lights,8.7,good,minor,Exterior panels and lighting systems are in good overall condition
+CAR049,wear_tear_parts,9.3,excellent,flawless,Wear and tear parts show normal usage and are in good condition
+CAR050,core_systems,8.5,good,minor,Core systems functioning well with smooth and reliable performance
+CAR050,supporting_systems,8.4,good,minor,Supporting systems are well maintained and fully operational
+CAR050,interiors_ac,9.1,excellent,flawless,"Interiors and AC system are clean, comfortable, and working properly"
+CAR050,exteriors_lights,9.3,excellent,flawless,Exterior panels and lighting systems are in good overall condition
+CAR050,wear_tear_parts,9.0,excellent,flawless,Wear and tear parts show normal usage and are in good condition

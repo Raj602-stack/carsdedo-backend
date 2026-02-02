@@ -29,14 +29,20 @@ from rest_framework.response import Response
 
 from .models import *
 from .serializers import *
+from .filters import CarFilter 
+from django_filters.rest_framework import DjangoFilterBackend
+from rest_framework.filters import OrderingFilter
+from .pagination import CarPagination
+
+
 
 
 # -------------------------
 # LIST VIEW (CAR CARDS)
 # -------------------------
-class CarListAPIView(generics.ListAPIView):
-    queryset = Car.objects.select_related("dealer")
-    serializer_class = CarDetailSerializer
+# class CarListAPIView(generics.ListAPIView):
+#     queryset = Car.objects.select_related("dealer")
+#     serializer_class = CarDetailSerializer
 
 
 # -------------------------
@@ -54,6 +60,43 @@ class CarDetailAPIView(generics.RetrieveAPIView):
     serializer_class = CarDetailSerializer
     lookup_field = "id"
 
+class CarListAPIView(generics.ListAPIView):
+    serializer_class = CarDetailSerializer
+    pagination_class = CarPagination
+
+    # 🔥 THIS ACTIVATES ALL FILTERS (INCLUDING COLOR)
+    filter_backends = [
+        DjangoFilterBackend,
+        OrderingFilter,
+    ]
+    filterset_class = CarFilter
+
+    # Optional but recommended
+    ordering_fields = [
+        "price",
+        "discount_price",
+        "year",
+        "km",
+        "created_at",
+    ]
+    ordering = ["-created_at"]
+
+    def get_queryset(self):
+        return (
+            Car.objects
+            .select_related("dealer")
+            .prefetch_related(
+                "images",
+                "highlights",
+                "reasons_to_buy",
+                "specs",
+                "features",
+                "inspection_section_scores",
+                "inspection_subsection_remarks",
+                "inspection_items",
+            )
+            .distinct()
+        )
 
 # -------------------------
 # CSV IMPORT (SINGLE FILE)

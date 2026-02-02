@@ -1,0 +1,5 @@
+dealer_code,name,phone,email,city,state,tier,tags
+DLR001,Premium Motors,9999999999,pm@gmail.com,Delhi,Delhi,premium,"['trusted','top-rated']"
+DLR002,City Cars,8888888888,city@gmail.com,Mumbai,Maharashtra,standard,"['budget']"
+DLR003,Auto Elite,7777777777,autoelite@gmail.com,Bangalore,Karnataka,premium,"['certified','verified']"
+DLR004,Metro Wheels,6666666666,metro@gmail.com,Pune,Maharashtra,standard,"['affordable','reliable']"

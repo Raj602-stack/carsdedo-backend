@@ -18,6 +18,7 @@ INSTALLED_APPS = [
     'django_extensions',
     'cars',
     "corsheaders",
+    "django_filters",
 ]
 
 AUTH_USER_MODEL = 'cars.User'
@@ -102,6 +103,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # DRF settings — preserved your auth & permissions, added throttling
 REST_FRAMEWORK = {
+
+    "DEFAULT_FILTER_BACKENDS": [
+        "django_filters.rest_framework.DjangoFilterBackend",
+        "rest_framework.filters.OrderingFilter",  # optional
+    ],
     "DEFAULT_PERMISSION_CLASSES": (
         "rest_framework.permissions.AllowAny",
     ),

@@ -9,4 +9,6 @@ requests
 phonenumbers
 Pillow>=9.0.0
 django-cors-headers
+django-filter>=23.5
+
 

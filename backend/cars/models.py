@@ -227,7 +227,11 @@ class Car(models.Model):
         blank=True
     )
 
-
+    emi = models.CharField(
+    max_length=50,
+    blank=True,
+    help_text="Monthly EMI display value e.g. ₹13,333/m*" 
+    )
     owner_count = models.PositiveSmallIntegerField(default=1)
 
     title = models.CharField(max_length=255)

@@ -1,84 +1,199 @@
 car_code,text
 CAR001,Single Owner
-CAR001,Well Maintained
-CAR001,No Accident History
-CAR001,Service Records Available
-CAR001,All Original Parts
-CAR002,Family Friendly
-CAR002,Low Running
-CAR002,Fuel Efficient
-CAR002,City Driven
-CAR002,Regular Service
+CAR001,Low Mileage
+CAR001,Strong Diesel Engine
+CAR001,Spacious Cabin
+CAR001,Low Maintenance
+CAR002,Well Maintained
+CAR002,Strong Diesel Engine
+CAR002,7 Seater
 CAR003,Single Owner
-CAR003,Showroom Condition
-CAR003,No Accident
-CAR003,Full Service History
-CAR003,Premium Features
-CAR004,Well Maintained
+CAR003,Well Maintained
+CAR003,Strong Diesel Engine
+CAR004,Single Owner
 CAR004,Low Mileage
-CAR004,Fuel Efficient
-CAR004,City Driven
+CAR004,Strong Diesel Engine
+CAR004,7 Seater
+CAR004,Low Maintenance
 CAR005,Single Owner
-CAR005,Low Running
 CAR005,Well Maintained
-CAR005,No Accident
+CAR005,Strong Diesel Engine
+CAR005,Spacious Cabin
 CAR006,Single Owner
 CAR006,Well Maintained
-CAR006,Full Service History
-CAR006,Premium SUV
-CAR007,Well Maintained
-CAR007,Low Running
-CAR007,City Driven
-CAR007,Eco-Friendly Option
+CAR006,Strong Diesel Engine
+CAR006,Spacious Cabin
+CAR007,Single Owner
+CAR007,Low Mileage
+CAR007,Strong Diesel Engine
+CAR007,Spacious Cabin
 CAR008,Single Owner
-CAR008,Showroom Condition
-CAR008,No Accident
-CAR008,Premium Features
+CAR008,Low Mileage
+CAR008,Fuel Efficient
+CAR008,Low Maintenance
+CAR009,Single Owner
 CAR009,Well Maintained
-CAR009,Low Mileage
-CAR009,Spacious
-CAR009,Fuel Efficient
+CAR009,Low Running Cost
+CAR009,Low Maintenance
 CAR010,Single Owner
-CAR010,Low Running
-CAR010,Feature Rich
 CAR010,Well Maintained
-CAR011,Well Maintained
-CAR011,7 Seater
-CAR011,Spacious
-CAR011,Family Friendly
+CAR010,Strong Diesel Engine
+CAR010,Low Maintenance
+CAR011,Single Owner
+CAR011,Low Mileage
+CAR011,Strong Diesel Engine
+CAR011,Spacious Cabin
 CAR012,Single Owner
-CAR012,Showroom Condition
-CAR012,No Accident
-CAR012,Premium German
+CAR012,Well Maintained
+CAR012,Strong Diesel Engine
+CAR012,7 Seater
+CAR013,Single Owner
 CAR013,Well Maintained
-CAR013,Low Mileage
-CAR013,Stylish Design
-CAR013,City Driven
+CAR013,Strong Diesel Engine
+CAR013,Spacious Cabin
+CAR013,Low Maintenance
 CAR014,Single Owner
-CAR014,Low Running
-CAR014,Connected Features
-CAR014,Well Maintained
+CAR014,Low Mileage
+CAR014,Strong Diesel Engine
+CAR014,Spacious Cabin
+CAR015,Single Owner
 CAR015,Well Maintained
-CAR015,Reliable
-CAR015,City Driven
-CAR015,Low Running
+CAR015,Strong Diesel Engine
+CAR015,Spacious Cabin
+CAR015,Low Maintenance
 CAR016,Single Owner
-CAR016,Showroom Condition
-CAR016,Safety Features
-CAR016,Premium SUV
-CAR017,Well Maintained
+CAR016,Well Maintained
+CAR016,Strong Diesel Engine
+CAR016,Low Maintenance
+CAR017,Single Owner
 CAR017,Low Mileage
-CAR017,Budget Friendly
 CAR017,Fuel Efficient
+CAR017,Low Maintenance
 CAR018,Single Owner
 CAR018,Well Maintained
-CAR018,Premium Sedan
-CAR018,Full Service History
+CAR018,Strong Diesel Engine
+CAR018,Spacious Cabin
+CAR019,Single Owner
 CAR019,Well Maintained
-CAR019,Low Running
-CAR019,Value for Money
-CAR019,City Driven
+CAR019,Strong Diesel Engine
+CAR019,Low Maintenance
 CAR020,Single Owner
-CAR020,Showroom Condition
-CAR020,No Accident
-CAR020,Luxury SUV
+CAR020,Low Mileage
+CAR020,Fuel Efficient
+CAR021,Single Owner
+CAR021,Low Mileage
+CAR021,Fuel Efficient
+CAR021,Spacious Cabin
+CAR022,Single Owner
+CAR022,Well Maintained
+CAR022,Strong Diesel Engine
+CAR022,7 Seater
+CAR022,Low Maintenance
+CAR023,Single Owner
+CAR023,Low Mileage
+CAR023,Fuel Efficient
+CAR023,Low Maintenance
+CAR024,Single Owner
+CAR024,Low Mileage
+CAR024,Strong Diesel Engine
+CAR024,Low Maintenance
+CAR025,Single Owner
+CAR025,Well Maintained
+CAR025,Strong Diesel Engine
+CAR025,Spacious Cabin
+CAR026,Single Owner
+CAR026,Well Maintained
+CAR026,Fuel Efficient
+CAR026,Low Maintenance
+CAR027,Single Owner
+CAR027,Well Maintained
+CAR027,Fuel Efficient
+CAR027,Low Maintenance
+CAR028,Single Owner
+CAR028,Well Maintained
+CAR028,Strong Diesel Engine
+CAR028,Low Maintenance
+CAR029,Single Owner
+CAR029,Well Maintained
+CAR029,Fuel Efficient
+CAR029,Low Maintenance
+CAR030,Single Owner
+CAR030,Well Maintained
+CAR030,Strong Diesel Engine
+CAR030,Low Maintenance
+CAR031,Single Owner
+CAR031,Well Maintained
+CAR031,Fuel Efficient
+CAR031,Low Maintenance
+CAR032,Single Owner
+CAR032,Low Mileage
+CAR032,Fuel Efficient
+CAR032,Low Maintenance
+CAR033,Single Owner
+CAR033,Low Mileage
+CAR033,Fuel Efficient
+CAR033,Low Maintenance
+CAR034,Single Owner
+CAR034,Low Mileage
+CAR034,Fuel Efficient
+CAR034,Low Maintenance
+CAR035,Well Maintained
+CAR035,Strong Diesel Engine
+CAR036,Single Owner
+CAR036,Low Mileage
+CAR036,Strong Diesel Engine
+CAR036,Spacious Cabin
+CAR037,Single Owner
+CAR037,Low Mileage
+CAR037,Fuel Efficient
+CAR037,Spacious Cabin
+CAR037,Low Maintenance
+CAR038,Single Owner
+CAR038,Low Mileage
+CAR038,Fuel Efficient
+CAR039,Single Owner
+CAR039,Low Mileage
+CAR039,Fuel Efficient
+CAR039,Low Maintenance
+CAR040,Single Owner
+CAR040,Well Maintained
+CAR040,Fuel Efficient
+CAR040,Spacious Cabin
+CAR040,Low Maintenance
+CAR041,Single Owner
+CAR041,Well Maintained
+CAR041,Fuel Efficient
+CAR041,Low Maintenance
+CAR042,Single Owner
+CAR042,Low Mileage
+CAR042,Fuel Efficient
+CAR042,Low Maintenance
+CAR043,Well Maintained
+CAR043,Strong Diesel Engine
+CAR044,Single Owner
+CAR044,Well Maintained
+CAR044,Fuel Efficient
+CAR045,Single Owner
+CAR045,Low Mileage
+CAR045,Strong Diesel Engine
+CAR046,Single Owner
+CAR046,Low Mileage
+CAR046,Fuel Efficient
+CAR046,Low Maintenance
+CAR047,Single Owner
+CAR047,Well Maintained
+CAR047,Fuel Efficient
+CAR047,Low Maintenance
+CAR048,Single Owner
+CAR048,Well Maintained
+CAR048,Strong Diesel Engine
+CAR048,7 Seater
+CAR049,Single Owner
+CAR049,Well Maintained
+CAR049,Fuel Efficient
+CAR049,Low Maintenance
+CAR050,Single Owner
+CAR050,Well Maintained
+CAR050,Strong Diesel Engine
+CAR050,7 Seater
+CAR050,Low Maintenance
